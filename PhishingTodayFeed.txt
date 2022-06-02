@@ -1444,7 +1444,6 @@
 "getlikesfree.com","domain"
 "getrfdeza.blogspot.com","hostname"
 "getsro.win","domain"
-"getvfpnext.com","domain"
 "gfxx.creatorlink.net","hostname"
 "gg.gg","domain"
 "ggffftfhhfft.byethost5.com","hostname"
