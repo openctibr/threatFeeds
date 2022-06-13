@@ -271,6 +271,7 @@
 "https://update.googleapis.com/service/update2?cup2key=10:3034038514&cup2hreq=9b4f22f30fecb99391111a031c03f3beba8b8e412acfbcded38989ef52de91ca","url"
 "https://update.googleapis.com/service/update2?cup2key=10:665849385&cup2hreq=1ee285a326c1e400683133ca2ba7b34cdc68c0eb1209fe4910dad80af1fea43e","url"
 "https://update.googleapis.com/service/update2?cup2key=10:851432413&cup2hreq=6cecc57a484cfdac6011bb3dfd51b2792378c3e840ef18ded5f86c74f24b36ba","url"
+"https://update.googleapis.com/service/update2?cup2key=10:955382973&cup2hreq=865094618922bb8732bd0c3c7f6cb53e6ce1c1d3e72359ff3072a1f1146feb7e","url"
 "kabos.xyz","domain|ip"
 "kingsley2022.bounceme.net","domain|ip"
 "loamy242.myddns.me","domain|ip"
