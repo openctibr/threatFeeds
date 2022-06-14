@@ -126,6 +126,8 @@
 "memorial.asvp.org.br","Cuckoo Sandbox analysis #6945","2022-06-12 23:54:47"
 "memorial.asvp.org.br","Cuckoo Sandbox analysis #6897","2022-06-12 21:59:59"
 "memorial.asvp.org.br","Cuckoo Sandbox analysis #6898","2022-06-12 21:59:59"
+"iluminaguarapuava.com.br","DigitalSide Malware report: MD5: 6f58b0242089f3735d71a83e9f58d3fa","2022-06-12 10:24:04"
+"vitalsoftware.com.br","DigitalSide Malware report: MD5: a92d56b0384bc35930db038299c351cb","2022-06-12 08:17:05"
 "www.cobranca.wayhost.com.br","CertStream feed","2022-06-12 02:55:05"
 "www.cobranca.callservicecob.com.br","CertStream feed","2022-06-12 02:55:05"
 "cms.serasa.emarketingbr.com.br","CertStream feed","2022-06-12 02:55:05"
