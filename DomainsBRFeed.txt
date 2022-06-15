@@ -1,3 +1,4 @@
+"memorial.asvp.org.br","Cuckoo Sandbox analysis #7608","2022-06-14 17:18:26"
 "ppz.devel.gns.com.br","Cuckoo Sandbox analysis #7544","2022-06-14 11:49:51"
 "www.mercado.culturaosasco.com.br","CertStream feed","2022-06-14 02:55:02"
 "mandacaruleiloes.com.br","CertStream feed","2022-06-14 02:55:02"
@@ -150,6 +151,7 @@
 "aluno10cg.agenciawebmedia.com.br","PhishingToday feed","2022-06-14 02:50:06"
 "anapolisemprego.com.br","PhishingToday feed","2022-06-14 02:50:06"
 "http://com.app.whatsapp.jvmtecnologia.com.br","PhishingToday feed","2022-06-14 02:50:02"
+"descontador.com.br","DigitalSide Malware report: MD5: 0bbd94828513a5150d316e2d73ddc85d","2022-06-13 14:38:04"
 "newsletter.dargentleiloes.com.br","CertStream feed","2022-06-13 02:55:01"
 "www.newsletter.dargentleiloes.com.br","CertStream feed","2022-06-13 02:55:01"
 "cartaointerativo.imagineart.com.br","CertStream feed","2022-06-13 02:55:01"
