@@ -399,3 +399,4 @@
 "https://update.googleapis.com/service/update2?cup2key=10:3818124711&cup2hreq=956fe5947a3c84123a38eb2bce6b897f33deb45e078ad129b1a2ab97d6a3cfa0","url"
 "mastodon.online","domain|ip"
 "mdownload.mini1.cn","domain|ip"
+"www.exiles.site","domain|ip"
