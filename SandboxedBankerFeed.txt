@@ -51,6 +51,7 @@
 "173.203.78.138","ip-dst"
 "179bb93a9eb4acded81ef0a6b4c9f25d0ca6629cfa03cb97809e4acbcb964504","sha256"
 "17ebc855105c34b39a4a914e31cdc741","md5"
+"184.24.77.47","ip-dst"
 "185.148.168.15","ip-dst"
 "185.148.168.220","ip-dst"
 "189aaf18f3f77a300525fa4d59bec420b6bb2fd0","sha1"
