@@ -5920,6 +5920,7 @@
 "loamy242.myddns.me","domain|ip"
 "ma.sillyn.com","domain|ip"
 "mail.essentialapparatus.co.ke","domain|ip"
+"mail.pakbusiness.com.pk","domain|ip"
 "mastodon.online","domain|ip"
 "memorial.asvp.org.br","domain|ip"
 "microsoft-key.duckdns.org","domain|ip"
