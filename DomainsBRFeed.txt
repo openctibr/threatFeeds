@@ -4519,5 +4519,3 @@
 "boatekantokente.com.br","PhishingToday feed","2022-05-22 02:50:06"
 "bund-de.lojaintegrada.com.br","PhishingToday feed","2022-05-22 02:50:06"
 "3adistribuidora.com.br","PhishingToday feed","2022-05-22 02:50:05"
-"agenciaml.com.br","DigitalSide Malware report: MD5: bb1372e462191a8c955906a152c59e89","2022-05-22 02:04:03"
-"dj.ruppersalimentos.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-05-21 15:40:02"
