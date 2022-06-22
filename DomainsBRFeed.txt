@@ -4559,5 +4559,3 @@
 "amoodontologia.com.br","PhishingToday feed","2022-05-23 02:50:05"
 "anapolisemprego.com.br","PhishingToday feed","2022-05-23 02:50:05"
 "atento-fdi.plusoftomni.com.br","PhishingToday feed","2022-05-23 02:50:05"
-"memorial.asvp.org.br","Cuckoo Sandbox analysis #40886","2022-05-22 22:40:42"
-"memorial.asvp.org.br","Cuckoo Sandbox analysis #40798","2022-05-22 14:34:08"
