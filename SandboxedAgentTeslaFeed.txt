@@ -391,6 +391,7 @@
 "http://sempersim.su/gf18/fre.php","url"
 "http://sempersim.su/gf19/fre.php","url"
 "http://sempersim.su/gf8/fre.php","url"
+"http://sempersim.su/gh12/fre.php","url"
 "http://sempersim.su/gh5/fre.php","url"
 "http://soapbeginshops.com/ItsMe.zip","url"
 "http://soapbeginshops.com/kingz.exe","url"
