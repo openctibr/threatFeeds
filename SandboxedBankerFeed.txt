@@ -397,6 +397,7 @@
 "https://update.googleapis.com/service/update2?cup2key=10:3020529180&cup2hreq=a772537bd010fdc74a1151d2da2f5f8906afe84b7953c6f2b7cef6c40f2b256e","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3094039631&cup2hreq=054bfb22e057a6f8fe720700c0ad1271931bddefbb5ac9acabf76febef504770","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3818124711&cup2hreq=956fe5947a3c84123a38eb2bce6b897f33deb45e078ad129b1a2ab97d6a3cfa0","url"
+"https://update.googleapis.com/service/update2?cup2key=10:4201234388&cup2hreq=4598587384137acc3826efc47d3566d9434f2f98aacea3538088b69e206fed4c","url"
 "mastodon.online","domain|ip"
 "mdownload.mini1.cn","domain|ip"
 "vezp5g.am.files.1drv.com","domain|ip"

@@ -142,6 +142,7 @@
 "8daa76a3282574dde4810fd2f093c7f7","md5"
 "91.211.251.186","ip-dst"
 "91d942a979d1d4516518cb140fcaee8f","md5"
+"94.130.70.48","ip-dst"
 "95.140.236.0","ip-dst"
 "95.156.227.131","ip-dst"
 "959c0ef7180f57d3159570b691671e9a51833c193d9727d374d7965740fb0b57","sha256"
@@ -327,4 +328,5 @@
 "r5---sn-4g5ednsd.gvt1.com","domain|ip"
 "sa-us-bucket.s3.us-east-2.amazonaws.com","domain|ip"
 "v9agm8uwtjmz.sytes.net","domain|ip"
+"vedolevyle.xyz","domain|ip"
 "www.icodeps.com","domain|ip"
