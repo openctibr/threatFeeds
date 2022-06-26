@@ -155,6 +155,7 @@
 "andersoncruzmentoria.com.br","PhishingToday feed","2022-06-25 02:50:26"
 "https://instagram-baiiouiuts-login.blogspot.com.br","PhishingToday feed","2022-06-25 02:50:12"
 "memorial.asvp.org.br","Cuckoo Sandbox analysis #11518","2022-06-24 17:25:46"
+"drviniciusterra.com.br","DigitalSide Malware report: MD5: 96b9f78979b3785d7606741c26bef033","2022-06-24 05:52:03"
 "https://costasbbq.com/wp-net/banco.bradesco/html/classic/promocoes/transforme_sua_casa/bradesco.com.br","Phishtank online valid phishing feed","2022-06-24 03:30:04"
 "https://gibsononcology.com/wp-ne/index.php?hash=resgatedepontos789@bradesco.com.br","Phishtank online valid phishing feed","2022-06-24 03:30:04"
 "http://videmp46383.blogspot.com.br","PhishScore feed","2022-06-24 03:00:03"
