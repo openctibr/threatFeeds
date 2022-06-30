@@ -186,6 +186,7 @@
 "http://isosite.com.br","PhishingToday feed","2022-06-29 02:50:08"
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-06-29 02:50:04"
 "http://brenntag.reibombas.com.br","PhishingToday feed","2022-06-29 02:50:04"
+"chaledooleo.com.br","DigitalSide Malware report: MD5: db026b3731603fe9468edcb784d8fde8","2022-06-28 20:26:04"
 "memorial.asvp.org.br","Cuckoo Sandbox analysis #13038","2022-06-28 13:24:37"
 "consulta.ciapaulistadeleiloes.com.br","CertStream feed","2022-06-28 02:55:03"
 "www.consulta.ciapaulistadeleiloes.com.br","CertStream feed","2022-06-28 02:55:03"
