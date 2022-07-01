@@ -142,6 +142,7 @@
 "http://app.personailsucursalpersonas.worldnetparaiso.com.br","PhishingToday feed","2022-06-30 02:50:03"
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-06-30 02:50:03"
 "http://brenntag.reibombas.com.br","PhishingToday feed","2022-06-30 02:50:03"
+"www.graficadupress.com.br","DigitalSide Malware report: MD5: 2150504adf5a9c6d8966bb47de88d4ea","2022-06-29 14:22:06"
 "www.aguarde.dialogocomoespelho.com.br","CertStream feed","2022-06-29 02:55:02"
 "seguro.pandaimpo.com.br","CertStream feed","2022-06-29 02:55:02"
 "autodiscover.manrubialeiloes.com.br","CertStream feed","2022-06-29 02:55:02"
@@ -4647,4 +4648,3 @@
 "anapolisemprego.com.br","PhishingToday feed","2022-06-01 02:50:08"
 "atento-fdi.plusoftomni.com.br","PhishingToday feed","2022-06-01 02:50:08"
 "bancaporlnternetlnterbarnk.libertycanais.com.br","PhishingToday feed","2022-06-01 02:50:08"
-"vivercomoafiliado.com.br","DigitalSide Malware report: MD5: a02e7dae0d49481bea77980b65c932ac","2022-05-31 19:25:03"
