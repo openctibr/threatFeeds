@@ -1,4 +1,1 @@
-"1e2b548efc0c6c99718661712932c789","md5"
-"4d9a106abd6e5192fa283da6b713b36ed07f170b","sha1"
-"cb2e076d17be99e861fd63554b26eee3f715997627c09bf4a9ca7ef78056bda5","sha256"
 "dl.uploadgram.me","domain|ip"
