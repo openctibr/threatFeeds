@@ -391,7 +391,6 @@
 "http://37.0.11.164:8080/loader/uploads/Renevct_Sdcwwahd.png","url"
 "http://37.0.11.164:8080/loader/uploads/Renevct_Sdyhjmpu.bmp","url"
 "http://37.0.11.164:8080/loader/uploads/Renevct_Wflqovxa.bmp","url"
-"http://37.0.11.164:8080/loader/uploads/Renevct_Xumgjcqw.png","url"
 "http://37.0.11.227/health11/five/fre.php","url"
 "http://45.133.1.20/health12/five/fre.php","url"
 "http://45.133.1.20/healthone/five/fre.php","url"
