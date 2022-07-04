@@ -124,6 +124,7 @@
 "https://dba692117be7b6d3480fe5220fdd58b38bf.xyz/API/2/configure.php?cf6zrlhn=ivra57","url"
 "https://github.com/Cr3ap3r/Product-Red/raw/main/crypton.exe","url"
 "https://github.com/Cr3ap3r/Product-Red/raw/main/updator.exe","url"
+"https://ipinfo.io/ip","url"
 "https://mylearning.pe.g4s.com/course/search.php?search=54yyhWS9348dj3","url"
 "https://mylearning.pe.g4s.com/course/search.php?search=StwwH31j8","url"
 "https://mylearning.pe.g4s.com/course/search.php?search=tCHS48b6","url"
