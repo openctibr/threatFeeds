@@ -636,7 +636,6 @@
 "http://r3.i.lencr.org/","url"
 "http://repository.certum.pl/ca.cer","url"
 "http://seecoh.net/24.exe","url"
-"http://sempersim.su/gf10/fre.php","url"
 "http://sempersim.su/gf16/fre.php","url"
 "http://sempersim.su/gf18/fre.php","url"
 "http://sempersim.su/gg1/fre.php","url"
