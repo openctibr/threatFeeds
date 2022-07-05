@@ -1,0 +1,7 @@
+"172.67.128.125","ip-dst"
+"edgedl.me.gvt1.com","domain|ip"
+"http://edgedl.me.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe","url"
+"https://imolaoggi.eu/s/8i2yvRDQwJpiAp182xPg3g74hAkOxf/field-keywords/","url"
+"https://update.googleapis.com/service/update2?cup2key=10:3094039631&cup2hreq=054bfb22e057a6f8fe720700c0ad1271931bddefbb5ac9acabf76febef504770","url"
+"imolaoggi.eu","domain|ip"
+"microsoft-key.duckdns.org","domain|ip"
