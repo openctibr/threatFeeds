@@ -1,3 +1,5 @@
+"vplegal.com.br","Cuckoo Sandbox analysis #15575","2022-07-05 00:45:38"
+"vplegal.com.br","Cuckoo Sandbox analysis #15574","2022-07-05 00:44:53"
 "www.aplicativo.weboox.com.br","CertStream feed","2022-07-04 02:55:03"
 "msagendadigimais.aplicativo.bancodigimais.com.br","CertStream feed","2022-07-04 02:55:03"
 "www.programa.metodofabulousfit.com.br","CertStream feed","2022-07-04 02:55:03"
@@ -125,6 +127,7 @@
 "http://isosite.com.br","PhishingToday feed","2022-07-04 02:50:12"
 "http://brenntag.reibombas.com.br","PhishingToday feed","2022-07-04 02:50:06"
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-07-04 02:50:05"
+"www.evosp.com.br","DigitalSide Malware report: MD5: 37b5441634e3c96d70f92770933842b7","2022-07-03 20:59:05"
 "webmail.jopanseguros.com.br","CertStream feed","2022-07-03 02:55:02"
 "www.tor.cometodo-desbloqueio-do-icloud.com.memberkit.com.br","CertStream feed","2022-07-03 02:55:02"
 "hom.boleto.optha.com.br","CertStream feed","2022-07-03 02:55:02"
