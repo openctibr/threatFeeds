@@ -120,7 +120,6 @@
 "https://update.googleapis.com/service/update2?cup2key=10:3020529180&cup2hreq=a772537bd010fdc74a1151d2da2f5f8906afe84b7953c6f2b7cef6c40f2b256e","url"
 "https://update.googleapis.com/service/update2?cup2key=10:3178240239&cup2hreq=1fd03bf352e553c956187881bfb8834cde30c1a0b39c96f8273db791917ebb45","url"
 "https://update.googleapis.com/service/update2?cup2key=10:402528309&cup2hreq=5a1e1867177510dff82c70e393991bf861f56593006b289298c2d5d98702de38","url"
-"https://update.googleapis.com/service/update2?cup2key=10:4249645994&cup2hreq=96de8f431977de955b3ff89b9f7d12237a03359091447836af52c4921ade3005","url"
 "nikahuve.ac.ug","domain|ip"
 "underdohg.ac.ug","domain|ip"
 "v.xyzgamev.com","domain|ip"
