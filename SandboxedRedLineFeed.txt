@@ -107,6 +107,7 @@
 "edgedl.me.gvt1.com","domain|ip"
 "eth0.me","domain|ip"
 "http://37.0.11.164:8080/loader/uploads/Renevct_Ftbzkzcj.bmp","url"
+"http://37.0.11.164:8080/loader/uploads/Renevct_Kujwmuga.png","url"
 "http://37.0.11.164:8080/loader/uploads/Renevct_Rfhlzdhb.bmp","url"
 "http://37.0.11.164:8080/loader/uploads/Renevct_Sdyhjmpu.bmp","url"
 "http://cacerts.digicert.com/RapidSSLTLSDVRSAMixedSHA2562020CA-1.crt","url"
