@@ -200,6 +200,7 @@
 "http://app.personailsucursalpersonas.worldnetparaiso.com.br","PhishingToday feed","2022-07-06 02:50:04"
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-07-06 02:50:04"
 "http://brenntag.reibombas.com.br","PhishingToday feed","2022-07-06 02:50:04"
+"www.empresaweb.com.br","DigitalSide Malware report: MD5: 105dbfd478d358992c8ebd62d773467f","2022-07-05 17:25:05"
 "leiloesandreafernandes.adv.br","CertStream feed","2022-07-05 02:55:02"
 "blog.novo-mercado.memberkit.com.br","CertStream feed","2022-07-05 02:55:02"
 "msinvestimentos.qa.us.aplicativo.bancodigimais.com.br","CertStream feed","2022-07-05 02:55:02"
