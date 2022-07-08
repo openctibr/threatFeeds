@@ -1,1 +1,4 @@
 "d.nxxxn.ga","domain|ip"
+"b264e023dc95d1434a716dc18b3cf61b","filename|md5"
+"e87bb221fbe505e0eb5b614d19a37a8b79400c03","filename|sha1"
+"477c74f00355b0f444f6675a3e8477c0540790569bda2c033f26466a61d39177","filename|sha256"
