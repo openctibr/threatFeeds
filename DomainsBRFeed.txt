@@ -4650,5 +4650,3 @@
 "aciermetal.com.br","PhishingToday feed","2022-06-12 02:50:23"
 "3adistribuidora.com.br","PhishingToday feed","2022-06-12 02:50:22"
 "https://kvdlm.edu.my/portal/components/com_media/ita/?edson302002@yahoo.com.br","PhishingToday feed","2022-06-12 02:50:08"
-"memorial.asvp.org.br","Cuckoo Sandbox analysis #6542","2022-06-11 23:30:33"
-"memorial.asvp.org.br","Cuckoo Sandbox analysis #6543","2022-06-11 23:28:35"
