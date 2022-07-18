@@ -279,7 +279,6 @@
 "1fd531009bcfa31a025210f1bd2d120b","md5"
 "1fd60cabcbd8a8a998cc63ded9961a90","md5"
 "1ff67988e4f622e3d071df9be03f52c403ebe11c","sha1"
-"2.16.186.10","ip-dst"
 "2.16.186.27","ip-dst"
 "2015e8734ab76ae7783940651ead062d","md5"
 "203e5617bdffba72e1a6b7a04e1bc4bfa6b143fc","sha1"
