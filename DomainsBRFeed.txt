@@ -4935,5 +4935,3 @@
 "aciermetal.com.br","PhishingToday feed","2022-06-20 02:50:10"
 "algotextil.com.br","PhishingToday feed","2022-06-20 02:50:10"
 "https://www.acm1.eim.ae.iwc.static.c11.artigianatobrasil.com.br","PhishingToday feed","2022-06-20 02:50:03"
-"memorial.asvp.org.br","Cuckoo Sandbox analysis #9640","2022-06-19 22:24:58"
-"memorial.asvp.org.br","Cuckoo Sandbox analysis #9641","2022-06-19 22:24:27"
