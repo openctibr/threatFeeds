@@ -1,3 +1,4 @@
+"exitofestas.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-07-21 15:40:04"
 "vplegal.com.br","Cuckoo Sandbox analysis #2717","2022-07-21 09:08:18"
 "http://exitofestas.com.br","MalwarePatrol Mozilla AdBlock feed","2022-07-21 04:40:13"
 "http://www.account.qualismais.odo.br","PhishingToday feed","2022-07-21 03:14:21"
