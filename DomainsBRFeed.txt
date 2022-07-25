@@ -1,3 +1,7 @@
+"e-commerce.saleensuporte.com.br","DigitalSide Malware report: MD5: c033932c15f002e82005af6207370743","2022-07-24 01:11:05"
+"www.reacredit.com.br","DigitalSide Malware report: MD5: 06ddae0e67a048aff8829413a7903bec","2022-07-23 23:31:05"
+"plasfan.ind.br","DigitalSide Malware report: MD5: 1ba0b20a2d03d8af03a7faa42b06417f","2022-07-23 18:55:05"
+"nettube.com.br","DigitalSide Malware report: MD5: fa5eef4f9ca20cc1a937f91aa8fb92f0","2022-07-23 16:11:14"
 "mail.irw.com.br","Cuckoo Sandbox analysis #3455","2022-07-22 06:31:20"
 "exitofestas.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-07-21 15:40:04"
 "vplegal.com.br","Cuckoo Sandbox analysis #2717","2022-07-21 09:08:18"
@@ -4555,4 +4559,3 @@
 "anapolisemprego.com.br","PhishingToday feed","2022-06-25 02:50:26"
 "andersoncruzmentoria.com.br","PhishingToday feed","2022-06-25 02:50:26"
 "https://instagram-baiiouiuts-login.blogspot.com.br","PhishingToday feed","2022-06-25 02:50:12"
-"memorial.asvp.org.br","Cuckoo Sandbox analysis #11518","2022-06-24 17:25:46"
