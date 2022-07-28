@@ -5195,4 +5195,3 @@
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-06-28 02:50:29"
 "https://instagram-baiiouiuts-login.blogspot.com.br","PhishingToday feed","2022-06-28 02:50:17"
 "http://brenntag.reibombas.com.br","PhishingToday feed","2022-06-28 02:50:04"
-"www.llev.com.br","DigitalSide Malware report: MD5: 11b1fa5931dc665184ba51a197bce5fc","2022-06-27 19:25:03"
