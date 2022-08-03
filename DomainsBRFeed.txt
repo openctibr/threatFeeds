@@ -5560,4 +5560,3 @@
 "http://isosite.com.br","PhishingToday feed","2022-07-04 02:50:12"
 "http://brenntag.reibombas.com.br","PhishingToday feed","2022-07-04 02:50:06"
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-07-04 02:50:05"
-"www.evosp.com.br","DigitalSide Malware report: MD5: 37b5441634e3c96d70f92770933842b7","2022-07-03 20:59:05"
