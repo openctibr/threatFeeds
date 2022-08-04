@@ -5713,7 +5713,3 @@
 "http://app.personailsucursalpersonas.worldnetparaiso.com.br","PhishingToday feed","2022-07-05 02:50:04"
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-07-05 02:50:04"
 "http://brenntag.reibombas.com.br","PhishingToday feed","2022-07-05 02:50:04"
-"vplegal.com.br","Cuckoo Sandbox analysis #15575","2022-07-05 00:45:38"
-"vplegal.com.br","Cuckoo Sandbox analysis #15574","2022-07-05 00:44:53"
-"www.llev.com.br","DigitalSide Malware report: MD5: f1519edcee6df7c266b6ee46988c1290","2022-07-04 16:29:05"
-"artefatocultural.org.br","DigitalSide Malware report: MD5: 59dbf47f380f887932dc87bb88d3f759","2022-07-04 16:25:06"
