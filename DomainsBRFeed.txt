@@ -1,3 +1,4 @@
+"https://dev.pagseguro.qisar.com.br","Phishtank online valid phishing feed","2022-08-09 03:30:49"
 "www.tecsuport.com.br","PhishingToday feed","2022-08-09 02:55:14"
 "cpcalendars.intermediumassessoria.com.br","CertStream feed","2022-08-09 02:55:14"
 "cpcontacts.intermediumassessoria.com.br","CertStream feed","2022-08-09 02:55:14"
@@ -1927,7 +1928,6 @@
 "atendimento-bradesco.topmidia.tv.br","PhishingToday feed","2022-07-31 02:50:05"
 "atento-fdi.plusoftomni.com.br","PhishingToday feed","2022-07-31 02:50:05"
 "https://www.semanario7dias.com/#itaucartoespj@itau.com.br","Phishtank online valid phishing feed","2022-07-30 03:30:09"
-"https://orvillebreeveld.com/wp-nt/index.php?hash=resgatedepontos103@bradesco.com.br","Phishtank online valid phishing feed","2022-07-30 03:30:08"
 "dev-niteroi-rotativo-web.jumpparkapi.com.br","CertStream feed","2022-07-30 02:55:02"
 "www.cartao.eureka360.com.br","CertStream feed","2022-07-30 02:55:02"
 "van-bradesco.feedz.com.br","CertStream feed","2022-07-30 02:55:02"
