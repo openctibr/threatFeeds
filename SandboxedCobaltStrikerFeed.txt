@@ -75,6 +75,3 @@
 "3f2202e24ad0a66c08f88a18dd7b5fb4","filename|md5"
 "62df51eb1351279afa4dbe5920758d6974427ac9","filename|sha1"
 "eb94cd39cde6a5270181d6e6788c69a2a90ab2b27f9236c8382e810e4dfead1d","filename|sha256"
-"ec4ce391d720fcaa3e25bedaa1bca2cf","filename|md5"
-"098c90855eb142588c2fd61d17a1d5aeb1c092ae","filename|sha1"
-"72739b0870bda5977ceff1f0ca6b8d9c86803ef12a9fb0755048a974d36c7096","filename|sha256"
