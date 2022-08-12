@@ -266,6 +266,7 @@
 "http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1658531065&mv=m&mvi=4&pl=22&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
 "http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1658551709&mv=m&mvi=4&pl=22&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
 "http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1658555617&mv=u&mvi=4&pl=22&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
+"http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1660293002&mv=u&mvi=4&pl=22&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
 "http://redirector.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe","url"
 "http://update.googleapis.com/service/update2","url"
 "https://update.googleapis.com/service/update2?cup2key=10:2195218662&cup2hreq=5e0db11985ddfd854a57078783a8d325b4ba1828060ac792865cc72a8c2caf7f","url"
