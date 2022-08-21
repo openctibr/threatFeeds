@@ -1358,7 +1358,6 @@
 "autodiscover.leilaoinvest.com.br","CertStream feed","2022-08-13 02:57:11"
 "cpanel.leilaoinvest.com.br","CertStream feed","2022-08-13 02:57:11"
 "pmdm.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-08-12 15:40:05"
-"http://pmdm.com.br","MalwarePatrol Mozilla AdBlock feed","2022-08-12 04:40:09"
 "www.atendimento.datatech.inf.br","CertStream feed","2022-08-12 02:55:06"
 "www.caixa.ldnet.com.br","CertStream feed","2022-08-12 02:55:06"
 "www.caixa.tere.ldnet.com.br","CertStream feed","2022-08-12 02:55:06"
@@ -5444,4 +5443,3 @@
 "http://application.segure.personastransacciones.empregadorexpert.com.br","PhishingToday feed","2022-07-23 02:50:04"
 "http://app.personailsucursalpersonas.worldnetparaiso.com.br","PhishingToday feed","2022-07-23 02:50:04"
 "http://biniris.reibombas.com.br","PhishingToday feed","2022-07-23 02:50:04"
-"mail.irw.com.br","Cuckoo Sandbox analysis #3455","2022-07-22 06:31:20"
