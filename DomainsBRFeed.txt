@@ -5365,4 +5365,3 @@
 "aciermetal.com.br","PhishingToday feed","2022-07-27 02:50:04"
 "administranutri.com.br","PhishingToday feed","2022-07-27 02:50:04"
 "http://icscards.nl.online-identificatie.astech.ind.br","PhishingToday feed","2022-07-27 02:50:03"
-"vplegal.com.br","Cuckoo Sandbox analysis #10041","2022-07-26 12:37:26"
