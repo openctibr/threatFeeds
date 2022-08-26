@@ -1,3 +1,6 @@
+"poupahotel.com.br","Cuckoo Sandbox analysis #15978","2022-08-26 06:24:26"
+"poupahotel.com.br","Cuckoo Sandbox analysis #16073","2022-08-26 06:23:05"
+"www.tencogasgnvrj.com.br","Cuckoo Sandbox analysis #16004","2022-08-26 06:10:02"
 "www.atualiza.acimm.com.br","CertStream feed","2022-08-26 02:55:04"
 "www.atendimento.franquiasolarenergy.com.br","CertStream feed","2022-08-26 02:55:04"
 "gateway-interno.santander.oleconsignado.com.br","CertStream feed","2022-08-26 02:55:04"
@@ -5359,4 +5362,3 @@
 "SPAMs://www.azulemprestimorio.com.br","PhishingToday feed","2022-07-28 02:50:04"
 "http://www.weyadvocacia.com.br","PhishingToday feed","2022-07-28 02:50:04"
 "http://icscards.nl.online-identificatie.prometallic.com.br","PhishingToday feed","2022-07-28 02:50:02"
-"vplegal.com.br","Cuckoo Sandbox analysis #11019","2022-07-27 11:32:04"
