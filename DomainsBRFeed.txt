@@ -1,3 +1,4 @@
+"http://meucapricho.com.br","MalwarePatrol Mozilla AdBlock feed","2022-08-27 04:41:06"
 "somosagostoahora.anvmudaseplantas.com.br","PhishingToday feed","2022-08-27 03:11:28"
 "SPAMs://emprestimocomgarantia.com.br","PhishingToday feed","2022-08-27 03:08:49"
 "SPAMs://inovaemprestimos.com.br","PhishingToday feed","2022-08-27 03:08:48"

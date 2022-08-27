@@ -764,7 +764,6 @@
 "http://google.com/twitch/fk32nOPxf/index.php","url"
 "http://localuyd.beget.tech/index.php","url"
 "http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTBL0V27RVZ7LBduom%2FnYB45SPUEwQU5Z1ZMIJHWMys%2BghUNoZ7OrUETfACEAo3h2ReX7SMIk79G%2B0UDDw%3D","url"
-"http://r1---sn-4g5ednsd.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5ednsd&ms=nvh&mt=1658997952&mv=u&mvi=1&pl=22&rmhost=r4---sn-4g5ednsd.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5ednde.gvt1.com","url"
 "http://r1---sn-4g5ednsd.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5ednsd&ms=nvh&mt=1659108126&mv=u&mvi=1&pl=22&rmhost=r4---sn-4g5ednsd.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5ednde.gvt1.com","url"
 "http://r1---sn-4g5ednsd.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5ednsd&ms=nvh&mt=1659137090&mv=u&mvi=1&pl=22&rmhost=r4---sn-4g5ednsd.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5ednde.gvt1.com","url"
 "http://r1---sn-4g5ednsd.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5ednsd&ms=nvh&mt=1659141021&mv=u&mvi=1&pl=22&rmhost=r4---sn-4g5ednsd.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5ednde.gvt1.com","url"
