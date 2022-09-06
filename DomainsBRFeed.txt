@@ -1577,7 +1577,6 @@
 "aciermetal.com.br","PhishingToday feed","2022-08-28 02:50:11"
 "365be.com.br","PhishingToday feed","2022-08-28 02:50:10"
 "http://metamask.io-defi-web3-dapps-and-nfts.io-7.grandfreios.com.br","PhishingToday feed","2022-08-28 02:50:06"
-"http://meucapricho.com.br","MalwarePatrol Mozilla AdBlock feed","2022-08-27 04:41:06"
 "somosagostoahora.anvmudaseplantas.com.br","PhishingToday feed","2022-08-27 03:11:28"
 "SPAMs://emprestimocomgarantia.com.br","PhishingToday feed","2022-08-27 03:08:49"
 "SPAMs://inovaemprestimos.com.br","PhishingToday feed","2022-08-27 03:08:48"
