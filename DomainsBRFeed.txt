@@ -4671,4 +4671,3 @@
 "www.santander.protense.com.br","CertStream feed","2022-08-13 02:57:11"
 "autodiscover.leilaoinvest.com.br","CertStream feed","2022-08-13 02:57:11"
 "cpanel.leilaoinvest.com.br","CertStream feed","2022-08-13 02:57:11"
-"pmdm.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-08-12 15:40:05"
