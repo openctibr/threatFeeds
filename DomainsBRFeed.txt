@@ -4634,4 +4634,3 @@
 "365be.com.br","PhishingToday feed","2022-08-15 02:50:13"
 "aciermetal.com.br","PhishingToday feed","2022-08-15 02:50:13"
 "https://facebookaccountloginml.blogspot.com.br","PhishingToday feed","2022-08-15 02:50:02"
-"ftp.techlabinfo.com.br","Cuckoo Sandbox analysis #4302","2022-08-14 13:48:06"
