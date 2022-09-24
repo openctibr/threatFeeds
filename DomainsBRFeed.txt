@@ -3310,7 +3310,3 @@
 "https://opensea.io.grupoamcdigital.com.br","PhishingToday feed","2022-08-26 02:50:04"
 "http://coinbase.verification.guerramkt.com.br","PhishingToday feed","2022-08-26 02:50:03"
 "poupahotel.com.br","Cuckoo Sandbox analysis #15316","2022-08-26 00:57:19"
-"poupahotel.com.br","DigitalSide Malware report: MD5: da7f26d02a9c054c1fbcee5fc2ebc684","2022-08-25 11:52:54"
-"poupahotel.com.br","DigitalSide Malware report: MD5: 866f0110407bada178738caf76da4643","2022-08-25 11:50:14"
-"poupahotel.com.br","DigitalSide Malware report: MD5: 6d7bcffbf2e1974fb06fef5e5d1995c1","2022-08-25 11:49:07"
-"poupahotel.com.br","DigitalSide Malware report: MD5: a9dcbd746a4f707ea6f9679bb06549b0","2022-08-25 11:47:08"
