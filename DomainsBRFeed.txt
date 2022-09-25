@@ -3451,7 +3451,3 @@
 "365be.com.br","PhishingToday feed","2022-08-27 02:50:42"
 "http://www.vnfmycqr1e.simsenmoda.com.br","PhishingToday feed","2022-08-27 02:50:22"
 "poupahotel.com.br","Cuckoo Sandbox analysis #16344","2022-08-27 00:45:26"
-"poupahotel.com.br","Cuckoo Sandbox analysis #15978","2022-08-26 06:24:26"
-"poupahotel.com.br","Cuckoo Sandbox analysis #16073","2022-08-26 06:23:05"
-"www.tencogasgnvrj.com.br","Cuckoo Sandbox analysis #16004","2022-08-26 06:10:02"
-"poupahotel.com.br","DigitalSide Malware report: MD5: 22a7fe03cdd1ced2045580f4cd68dfc1","2022-08-26 05:53:07"
