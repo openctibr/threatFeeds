@@ -3448,4 +3448,3 @@
 "aciermetal.com.br","PhishingToday feed","2022-08-29 02:50:15"
 "365be.com.br","PhishingToday feed","2022-08-29 02:50:14"
 "http://www.tribosjovens.org.br","PhishingToday feed","2022-08-29 02:50:13"
-"radioboua.com.br","DigitalSide Malware report: MD5: 34e89f54e17290d3029ca70839b78bed","2022-08-28 11:33:12"
