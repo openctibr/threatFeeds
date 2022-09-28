@@ -3465,4 +3465,3 @@
 "365be.com.br","PhishingToday feed","2022-08-30 02:50:10"
 "http://www.tribosjovens.org.br","PhishingToday feed","2022-08-30 02:50:09"
 "http://fracht.saaeuniao.com.br","PhishingToday feed","2022-08-30 02:50:02"
-"graficadupress.com.br","DigitalSide Malware report: MD5: 9b8464cd768802d3d49b80a8ef78d7a1","2022-08-29 05:32:05"
