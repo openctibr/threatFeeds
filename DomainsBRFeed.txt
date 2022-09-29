@@ -1,3 +1,4 @@
+"www.conscienciacursos.com.br","Cuckoo Sandbox analysis #31170","2022-09-29 09:04:30"
 "http://caixa.loghub.bhxs.com.br","Phishtank online valid phishing feed","2022-09-29 03:30:42"
 "loja2.fand.com.br","PhishingToday feed","2022-09-29 03:14:14"
 "ingresoseguro.jobrefrigeracao.com.br","PhishingToday feed","2022-09-29 03:14:13"
@@ -3527,5 +3528,3 @@
 "365be.com.br","PhishingToday feed","2022-08-31 02:50:19"
 "https://tinyurl.com/wmm-suporte?d=oi.com.br","PhishingToday feed","2022-08-31 02:50:11"
 "http://tinyurl.com/wmm-suporte?d=oi.com.br","PhishingToday feed","2022-08-31 02:50:11"
-"www.escolasantarita.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-08-30 15:40:19"
-"http://www.escolasantarita.com.br","MalwarePatrol Mozilla AdBlock feed","2022-08-30 04:40:10"
