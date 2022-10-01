@@ -3752,4 +3752,3 @@
 "365be.com.br","PhishingToday feed","2022-09-02 02:50:13"
 "http://vps37326.publiccloud.com.br","PhishingToday feed","2022-09-02 02:50:07"
 "http://metamask.io-defi-web3-dapps-and-nfts.io-77.grandfreios.com.br","PhishingToday feed","2022-09-02 02:50:02"
-"lojadmays.com.br","DigitalSide Malware report: MD5: 2a3f53f8d4465003a52ba1ba54b70f6b","2022-09-01 09:21:13"
