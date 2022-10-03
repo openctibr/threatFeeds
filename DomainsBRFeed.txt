@@ -3898,5 +3898,3 @@
 "365be.com.br","PhishingToday feed","2022-09-04 02:50:22"
 "https://stories-lnstagram.com.br","PhishingToday feed","2022-09-04 02:50:13"
 "https://facebookmedia.com.br","PhishingToday feed","2022-09-04 02:50:12"
-"thinkia.com.br","PhishingToday feed","2022-09-03 03:35:33"
-"https://finanfor-sofisa.idtrust.com.br","PhishingToday feed","2022-09-03 03:34:44"
