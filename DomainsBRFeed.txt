@@ -2637,7 +2637,6 @@
 "www.tecsuport.com.br","PhishingToday feed","2022-09-24 04:56:36"
 "www.siliconescuritiba.com.br","PhishingToday feed","2022-09-24 04:56:27"
 "www.portalclicknegocios.com.br","PhishingToday feed","2022-09-24 04:43:01"
-"http://meucapricho.com.br","MalwarePatrol Mozilla AdBlock feed","2022-09-24 04:42:21"
 "www.expediapartnercentral.solemarnoronha.com.br","PhishingToday feed","2022-09-24 04:40:39"
 "www.dienergia.com.br","PhishingToday feed","2022-09-24 04:40:28"
 "www.discoveryartesgraficas.com.br","PhishingToday feed","2022-09-24 04:40:28"
