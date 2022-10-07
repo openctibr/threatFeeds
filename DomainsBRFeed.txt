@@ -4149,4 +4149,3 @@
 "http://incredibuild.ohlin.com.br","PhishingToday feed","2022-09-08 02:50:11"
 "https://www.hellcat.verification.butt.centraldosperfissp.com.br","PhishingToday feed","2022-09-08 02:50:04"
 "http://lazard.ohlin.com.br","PhishingToday feed","2022-09-08 02:50:02"
-"www.psicomedodontoclinical.com.br","DigitalSide Malware report: MD5: b96a4c0fa46b7bf0c8291ff225ae2b75","2022-09-07 15:44:07"
