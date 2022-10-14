@@ -1,4 +1,3 @@
-"storehosting.com.br","CISA Known Exploited Vulnerabilities Catalog","2022-10-13 04:40:14"
 "https://lightshopee.com.br","PhishingToday feed","2022-10-13 03:08:23"
 "sorriaodontologiabh.com.br","PhishingToday feed","2022-10-13 03:08:12"
 "forsul.com.br","PhishingToday feed","2022-10-13 03:08:09"
