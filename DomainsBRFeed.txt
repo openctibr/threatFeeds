@@ -1,3 +1,4 @@
+"www.filifilm.com.br","Cuckoo Sandbox analysis #34634","2022-10-20 09:09:50"
 "www.promocao-aplicada.monsterfire.com.br","PhishingToday feed","2022-10-20 03:37:54"
 "www.fetale.com.br","PhishingToday feed","2022-10-20 03:36:38"
 "metamask.io-1s2r12.alternativa3d.com.br","PhishingToday feed","2022-10-20 03:36:33"
