@@ -1,3 +1,4 @@
+"www.filifilm.com.br","Cuckoo Sandbox analysis #40744","2022-10-22 09:44:47"
 "https://atendimentoplanoempresas.com.br","PhishingToday feed","2022-10-22 06:40:06"
 "https://mp-login-acesso-hl.siteprofissional.com/rio45.php?www.itau.com.br","PhishingToday feed","2022-10-22 06:39:27"
 "https://www.bancomodal.antarestrades.com.br","PhishingToday feed","2022-10-22 06:39:17"
