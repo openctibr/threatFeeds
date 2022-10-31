@@ -1,1 +1,2 @@
-domain|Subject Alternative Name|Certificate SerialNumber
+"ww22.caixa.iniciar-acesso.app"|""|""
+"ww23.caixa.acesso-portal.digital"|""|""

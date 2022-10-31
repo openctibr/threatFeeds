@@ -5670,5 +5670,3 @@
 "www.santander.protense.com.br","CertStream feed","2022-10-01 02:55:24"
 "www.exames.laboratoriojoseroberto.com.br","CertStream feed","2022-10-01 02:55:23"
 "www.boleto.softhost.com.br","CertStream feed","2022-10-01 02:55:23"
-"flexmedicao.com.br","DigitalSide Malware report: MD5: b3e469507247f184dc50e04d9bb72ba8","2022-09-30 16:03:06"
-"dedassessoriacontabil.com.br","DigitalSide Malware report: MD5: b779864bc2ba65d2c54f9d3d690af6e0","2022-09-30 08:35:50"
