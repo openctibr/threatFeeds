@@ -1,3 +1,4 @@
+"mail.godstar.com.br","Cuckoo Sandbox analysis #78029","2022-11-01 15:13:52"
 "shop.delico.com.br","PulseDive Domains feed","2022-11-01 03:31:26"
 "http://104.129.205.92.host.secureserver.net/.e-notas/?cid=gugug@gugug.com.br","PhishingToday feed","2022-11-01 03:28:34"
 "http://104.129.205.92.host.secureserver.net/clienteseguro/?cid=atualizacao@regular.com.br","PhishingToday feed","2022-11-01 03:28:00"
@@ -5634,5 +5635,3 @@
 "https://storageapi.fleek.co/a6e6b20e-cafe-4dc7-8035-b0e43bd5159e-bucket/dd.html?email=ibiuna@ibiunainvest.com.br","PhishingToday feed","2022-10-03 02:50:03"
 "aopmbm.org.br","DigitalSide Malware report: MD5: 8c7a3fff9fd3c3fbc276770abdbac7f3","2022-10-02 22:25:02"
 "aspuv.org.br","DigitalSide Malware report: MD5: 87e04b15c6efd1af3c0bfd894c94cf12","2022-10-02 21:39:03"
-"cartoriosesp.com.br","DigitalSide Malware report: MD5: 97853d9ab9ec32f9d043ce61ccb3186d","2022-10-02 17:24:03"
-"aspuv.org.br","DigitalSide Malware report: MD5: 3b6e8f97531c128d8f9a07b1a6101c73","2022-10-02 12:02:02"
