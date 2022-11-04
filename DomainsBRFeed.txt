@@ -1,3 +1,5 @@
+"plazaboulevard.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-11-03 15:40:05"
+"uplink.in.gov.indiana.seducinfo.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-11-03 15:40:05"
 "http://uplink.in.gov.indiana.seducinfo.com.br","MalwarePatrol Mozilla AdBlock feed","2022-11-03 04:40:14"
 "https://plazaboulevard.com.br","MalwarePatrol Mozilla AdBlock feed","2022-11-03 04:40:14"
 "http://plazaboulevard.com.br","MalwarePatrol Mozilla AdBlock feed","2022-11-03 04:40:13"
@@ -5787,5 +5789,3 @@
 "aciermetal.com.br","PhishingToday feed","2022-10-05 02:50:46"
 "acessoibank8.com.br","PhishingToday feed","2022-10-05 02:50:45"
 "365be.com.br","PhishingToday feed","2022-10-05 02:50:41"
-"despachantesoares.com.br","DigitalSide Malware report: MD5: 17b167d9cca8e03a93853edf8b12bb76","2022-10-04 12:54:06"
-"despachantesoares.com.br","DigitalSide Malware report: MD5: 30f0cb6d337150f4ca692e2a7de34535","2022-10-04 12:03:07"
