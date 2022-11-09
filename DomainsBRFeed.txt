@@ -5679,5 +5679,3 @@
 "aguiamotoslem.com.br","PhishingToday feed","2022-10-10 02:51:28"
 "acessoibank8.com.br","PhishingToday feed","2022-10-10 02:51:23"
 "365be.com.br","PhishingToday feed","2022-10-10 02:51:15"
-"megabaratovariedades.com.br","DigitalSide Malware report: MD5: f33710056c7855cf2fc70cd4052bf809","2022-10-09 12:44:33"
-"cartoriosesp.com.br","DigitalSide Malware report: MD5: 574360f9a20b3f40e897b7b5c08bf7ea","2022-10-09 11:22:34"
