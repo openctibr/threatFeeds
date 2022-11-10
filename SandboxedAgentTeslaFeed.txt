@@ -881,6 +881,7 @@
 "http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1667888182&mv=m&mvi=4&pl=27&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
 "http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1667962538&mv=u&mvi=4&pl=27&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
 "http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1667963779&mv=m&mvi=4&pl=27&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
+"http://r4---sn-4g5e6nze.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.149&mm=28&mn=sn-4g5e6nze&ms=nvh&mt=1667974342&mv=m&mvi=4&pl=27&rmhost=r3---sn-4g5e6nze.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5e6nsr.gvt1.com","url"
 "http://redirector.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe","url"
 "http://ripley.studio/loader/uploads/Yjnhiv.jpeg","url"
 "http://www.chez-l-habitant.com/template/js/Obtkkku.bmp","url"

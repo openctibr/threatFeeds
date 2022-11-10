@@ -5746,5 +5746,3 @@
 "pontoelima.com.br","DigitalSide Malware report: MD5: 65e2873480ed51e17ec24389c9cb655e","2022-10-10 23:02:14"
 "climasist.com.br","DigitalSide Malware report: MD5: 2cb49d7631744ffe3959f374702cac46","2022-10-10 18:58:17"
 "advogadogoiania.com.br","DigitalSide Malware report: MD5: c1bbe73f754abea6617f3de5e1fe7b76","2022-10-10 18:48:16"
-"www.toplevel.com.br","DigitalSide Malware report: MD5: 8c37c8a5db04f61de5259f36de4f5e50","2022-10-10 14:07:25"
-"investindoemimoveis.com.br","DigitalSide Malware report: MD5: 08051f6650aa8448276f54672eeb5fae","2022-10-10 09:23:30"
