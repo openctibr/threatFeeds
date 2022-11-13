@@ -5902,6 +5902,3 @@
 "papelariacatete.com.br","DigitalSide Malware report: MD5: d41d8cd98f00b204e9800998ecf8427e","2022-10-13 19:13:39"
 "plantscosmeticos.com.br","DigitalSide Malware report: MD5: d41d8cd98f00b204e9800998ecf8427e","2022-10-13 19:11:39"
 "afiliadoprimeiravenda.com.br","DigitalSide Malware report: MD5: 81cbc60c6e1403a9954383bc6dcd8b14","2022-10-13 18:50:44"
-"fikweb.com.br","DigitalSide Malware report: MD5: 25b3934b9bcb8fe567a22314bda722ba","2022-10-13 17:03:53"
-"raisousa.com.br","DigitalSide Malware report: MD5: d41d8cd98f00b204e9800998ecf8427e","2022-10-13 15:55:41"
-"dreamcastbrasil.com.br","DigitalSide Malware report: MD5: 42fb85b161ed53eee79da6f861711f9d","2022-10-13 13:41:49"
