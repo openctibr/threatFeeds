@@ -5953,4 +5953,3 @@
 "autobox-ap.com.br","DigitalSide Malware report: MD5: d41d8cd98f00b204e9800998ecf8427e","2022-10-14 22:14:31"
 "aspuv.org.br","DigitalSide Malware report: MD5: d41d8cd98f00b204e9800998ecf8427e","2022-10-14 22:13:32"
 "aberturafacil.com.br","DigitalSide Malware report: MD5: d41d8cd98f00b204e9800998ecf8427e","2022-10-14 21:58:31"
-"centerformula.com.br","DigitalSide Malware report: MD5: 5a33e1fb5060dfb69aa51f7430627a72","2022-10-14 10:42:39"
