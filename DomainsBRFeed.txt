@@ -1,3 +1,5 @@
+"www.pentagonalimobiliaria.com.br","Cuckoo Sandbox analysis #10736","2022-11-15 13:39:12"
+"mail.godstar.com.br","Cuckoo Sandbox analysis #10169","2022-11-15 07:33:15"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-11-15 03:32:13"
 "http://104.129.205.92.host.secureserver.net/clienteseguro/?cid=atualizacao@regular.com.br","PhishingToday feed","2022-11-15 03:18:25"
 "ysc.com.br","PhishingToday feed","2022-11-15 03:18:20"
@@ -6032,4 +6034,3 @@
 "http://exodus.m2majesticgames.com.br","PhishingToday feed","2022-10-17 02:50:04"
 "henriquegalvao.com.br","DigitalSide Malware report: MD5: b62fe7c640bf753c53db95453f046c84","2022-10-17 01:19:05"
 "radiologiaberrini.com.br","DigitalSide Malware report: MD5: 88c36bf0a4cd8ed534aa849854612a3a","2022-10-16 23:41:04"
-"tresal.com.br","DigitalSide Malware report: MD5: a751f46f2e32a58f9dd2aa6805dec41a","2022-10-16 16:12:05"
