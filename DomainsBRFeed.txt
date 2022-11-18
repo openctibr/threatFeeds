@@ -6199,4 +6199,3 @@
 "aeasdf.org.br","PhishingToday feed","2022-10-19 02:51:05"
 "acessoibank8.com.br","PhishingToday feed","2022-10-19 02:51:03"
 "http://cerradomalte.com.br","PhishingToday feed","2022-10-19 02:50:03"
-"universostoresp.com.br","DigitalSide Malware report: MD5: 3f0358106fa559a314ad28ce7ec38760","2022-10-18 15:13:07"
