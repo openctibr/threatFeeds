@@ -1,3 +1,4 @@
+"mail.godstar.com.br","Cuckoo Sandbox analysis #17471","2022-11-18 06:17:17"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-11-18 03:30:52"
 "http://104.129.205.92.host.secureserver.net/.e-notas/?cid=gugug@gugug.com.br","PhishingToday feed","2022-11-18 03:27:59"
 "www.secure07a.violetras.com.br","PhishingToday feed","2022-11-18 03:27:58"
@@ -6380,7 +6381,3 @@
 "aeasdf.org.br","PhishingToday feed","2022-10-20 02:51:07"
 "acessoibank8.com.br","PhishingToday feed","2022-10-20 02:51:05"
 "primordialodontologia.com.br","DigitalSide Malware report: MD5: 538f648034c07497f1a6fb0c0dd8161e","2022-10-20 01:20:10"
-"condominiosfechado.com.br","DigitalSide Malware report: MD5: e60a91d1f95b050b9ab24060e4e9fe81","2022-10-19 15:33:09"
-"imcardio.com.br","DigitalSide Malware report: MD5: a23952c411143c787709e5acc0e355b6","2022-10-19 15:14:10"
-"godstar.com.br","DigitalSide Malware report: MD5: 09f03dfd648b1891f0580e013d060d06","2022-10-19 10:02:22"
-"supercromo.com.br","DigitalSide Malware report: MD5: f8ede3bd983f55e0f63fa1e5460deaae","2022-10-19 08:52:10"
