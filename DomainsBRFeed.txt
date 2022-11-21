@@ -6538,5 +6538,3 @@
 "www.cadastro.creatideas.com.br","CertStream feed","2022-10-22 02:55:15"
 "www.cadastro.michellehair.com.br","CertStream feed","2022-10-22 02:55:07"
 "shop.delico.com.br","PulseDive Domains feed","2022-10-22 02:45:51"
-"godstar.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-10-21 15:40:36"
-"www.filifilm.com.br","Cuckoo Sandbox analysis #37803","2022-10-21 10:42:04"
