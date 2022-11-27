@@ -6797,4 +6797,3 @@
 "auroralingerie.com.br","ThreatFox IOCs for 2022-10-27","2022-10-27 20:49:26"
 "agenciabehappy.com.br","ThreatFox IOCs for 2022-10-27","2022-10-27 20:49:00"
 "7eagle.com.br","ThreatFox IOCs for 2022-10-27","2022-10-27 20:48:57"
-"pedrosvadeira.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-10-27 15:43:43"
