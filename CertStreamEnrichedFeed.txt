@@ -1,7 +1,1 @@
-"gitlab.gitlab.git.git.git.old.mercado.memberkit.com.br"|""|""
-"git.git.git.gitlab.gitlab.git.git.astrazeneca.100fuersbb.ch"|""|""
-"gitlab.gitlab.git.git.git.old.o-novo-mercado.memberkit.com.br"|""|""
-"git.git.git.gitlab.gitlab.git.mercado.memberkit.com.br"|""|""
-"git.git.git.gitlab.gitlab.git.vivo.pinepage.com"|""|""
-"git.git.git.gitlab.gitlab.gitlab.git.vivo.pinepage.com"|""|""
-"gitlab.gitlab.git.git.gitlab.git.git.astrazeneca.100fuersbb.ch"|""|""
+domain|Subject Alternative Name|Certificate SerialNumber
