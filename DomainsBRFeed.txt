@@ -7490,5 +7490,3 @@
 "shop.delico.com.br","PulseDive Domains feed","2022-11-05 02:45:11"
 "designelis.com.br","DigitalSide Malware report: MD5: 79b99017b07213e37f643252c85d8a9c","2022-11-04 19:33:09"
 "cursosweb.com.br","DigitalSide Malware report: MD5: 482f1d30091da238feb800f735d66726","2022-11-04 19:31:47"
-"www.cginforma.com.br","DigitalSide Malware report: MD5: 11df05aa6a170356777409ee2634296c","2022-11-04 16:24:36"
-"cursosinterativos.com.br","DigitalSide Malware report: MD5: b21d01fbe760838d8bb90f0ab9b90d96","2022-11-04 12:17:28"
