@@ -1,7 +1,0 @@
-"192.3.101.17","ip-dst"
-"790c7c65b33aedba2db7da9835d55be909a5eb9a","sha1"
-"b28db8c25d9296cd0f78f2feb38a99b5","md5"
-"e6d89604af1df906d2a20791f6cf0444ab5d489b94b69977b5fd9db4b1fa5c4f","sha256"
-"b28db8c25d9296cd0f78f2feb38a99b5","filename|md5"
-"790c7c65b33aedba2db7da9835d55be909a5eb9a","filename|sha1"
-"e6d89604af1df906d2a20791f6cf0444ab5d489b94b69977b5fd9db4b1fa5c4f","filename|sha256"
