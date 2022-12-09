@@ -1,3 +1,5 @@
+"www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #69959","2022-12-08 07:35:29"
+"www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #69901","2022-12-08 06:45:23"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-12-08 03:30:48"
 "shop.delico.com.br","PulseDive Domains feed","2022-12-08 03:30:47"
 "https://www.my-netbank.commbank.application.com.au.pank.com.br","PhishScore feed","2022-12-08 03:00:24"
@@ -7921,7 +7923,3 @@
 "mx.b.locaweb.com.br","Cuckoo Sandbox analysis #101150","2022-11-09 00:40:50"
 "www.llev.com.br","DigitalSide Malware report: MD5: 424fb13b7726ac36b1dfc30e3bf8df25","2022-11-08 23:05:30"
 "www.clinicaportalpsicologia.com.br","DigitalSide Malware report: MD5: a3e3e2f8dadd3f0415884b484ccf884b","2022-11-08 17:36:58"
-"grupoagapema.com.br","DigitalSide Malware report: MD5: 6709be85de46a98a01e1f372eaddf215","2022-11-08 12:20:16"
-"annunziato.com.br","DigitalSide Malware report: MD5: 6bf5eb190900baefc9802db359c15d18","2022-11-08 09:43:12"
-"www.tvculturaourofino.com.br","DigitalSide Malware report: MD5: 02c8da5c3b0bb0d47fc2499f0dd370d1","2022-11-08 06:29:32"
-"www.tvculturaourofino.com.br","DigitalSide Malware report: MD5: ff2466ab777b762a419bd68532917ead","2022-11-08 06:28:27"
