@@ -8090,4 +8090,3 @@
 "git.git.git.git.test.o-novo-mercado.memberkit.com.br","CertStream feed","2022-11-12 02:55:01"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-11-12 02:45:05"
 "shop.delico.com.br","PulseDive Domains feed","2022-11-12 02:45:03"
-"www.fullwiz.com.br","DigitalSide Malware report: MD5: 7ec8d5b67dad79d313af343e443d3533","2022-11-11 09:49:57"
