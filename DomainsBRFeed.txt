@@ -1,3 +1,5 @@
+"wyndellribeiro.com.br","Cuckoo Sandbox analysis #86807","2022-12-15 16:44:49"
+"caminhosdalideranca.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-12-15 15:40:04"
 "https://caminhosdalideranca.com.br","MalwarePatrol Mozilla AdBlock feed","2022-12-15 04:40:10"
 "www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #85564","2022-12-15 03:12:33"
 "socl.com.br","ThreatFox IOCs for 2022-12-14","2022-12-14 17:42:49"
@@ -8228,5 +8230,3 @@
 "clinicaventoleste.com.br","ThreatFox IOCs for 2022-11-15","2022-11-15 18:47:01"
 "britofilms.com.br","ThreatFox IOCs for 2022-11-15","2022-11-15 18:46:51"
 "archimetrum.com.br","ThreatFox IOCs for 2022-11-15","2022-11-15 18:46:40"
-"www.pentagonalimobiliaria.com.br","Cuckoo Sandbox analysis #10736","2022-11-15 13:39:12"
-"mail.godstar.com.br","Cuckoo Sandbox analysis #10169","2022-11-15 07:33:15"
