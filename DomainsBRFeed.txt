@@ -8220,4 +8220,3 @@
 "git.git.metodo-desbloqueio-do-icloud.com.memberkit.com.br","CertStream feed","2022-11-19 02:55:01"
 "git.git.shop.mail.o-novo-mercado.memberkit.com.br","CertStream feed","2022-11-19 02:55:01"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-11-19 02:45:12"
-"mail.godstar.com.br","Cuckoo Sandbox analysis #17471","2022-11-18 06:17:17"
