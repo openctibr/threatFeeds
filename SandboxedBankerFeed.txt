@@ -452,7 +452,6 @@
 "https://update.googleapis.com/service/update2?cup2key=10:1729468984&cup2hreq=1140b078819636691f024355feb0a7cc0c8d05afb7ee774b662e2211a98f8567","url"
 "https://www.icodeps.com/","url"
 "ip.tanwan.com","domain|ip"
-"jasonbourne.bounceme.net","domain|ip"
 "mas.to","domain|ip"
 "nerdculture.de","domain|ip"
 "nexst111.sells-it.net","domain|ip"
