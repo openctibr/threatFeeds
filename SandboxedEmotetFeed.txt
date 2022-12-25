@@ -189,6 +189,7 @@
 "http://r5---sn-4g5edn6y.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.146&mm=28&mn=sn-4g5edn6y&ms=nvh&mt=1671842432&mv=u&mvi=5&pl=22&rmhost=r1---sn-4g5edn6y.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5ednde.gvt1.com","url"
 "http://r5---sn-4g5edn6y.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe?cms_redirect=yes&mh=p6&mip=168.119.23.146&mm=28&mn=sn-4g5edn6y&ms=nvh&mt=1671842903&mv=m&mvi=5&pl=22&rmhost=r1---sn-4g5edn6y.gvt1.com&shardbypass=sd&smhost=r3---sn-4g5ednde.gvt1.com","url"
 "http://redirector.gvt1.com/edgedl/release2/update2/acxpesfay35zqh63ag3isppcycxa_1.3.36.132/GoogleUpdateSetup.exe","url"
+"http://update.googleapis.com/service/update2","url"
 "r1---sn-4g5ednsd.gvt1.com","domain|ip"
 "r2---sn-4g5e6nzs.gvt1.com","domain|ip"
 "r4---sn-4g5e6nze.gvt1.com","domain|ip"
