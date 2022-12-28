@@ -18,3 +18,4 @@
 "znsemih.fatura-tl.com"|"DNS:znsemih.fatura-tl.com"|"04:31:42:54:2d:15:b6:b9:41:65:8d:e7:53:2e:68:8c:62:93"
 "zukermanleiloes.com"|"DNS:www.zukermanleiloes.com, DNS:zukermanleiloes.com"|"04:e2:95:c9:72:74:67:3b:a6:85:b1:a6:09:34:fd:3a:c0:ac"
 "zurich.seguros-generales.es"|"DNS:zurich.seguros-generales.es, DNS:www.zurich.seguros-generales.es"|"b5:73:c0:73:82:c2:3e:0c:6f:e6:b6:6d:96:11:49:59"
+"zx-virus.keenetic.pro"|""|""
