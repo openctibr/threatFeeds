@@ -7452,5 +7452,3 @@
 "almeidadittrich.com.br","ThreatFox IOCs for 2022-11-28","2022-11-28 18:57:09"
 "agenciamarketingchef.com.br","ThreatFox IOCs for 2022-11-28","2022-11-28 18:57:03"
 "adeq.com.br","ThreatFox IOCs for 2022-11-28","2022-11-28 18:56:59"
-"www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #43663","2022-11-28 06:39:09"
-"www.filifilm.com.br","Cuckoo Sandbox analysis #43067","2022-11-28 05:05:51"
