@@ -6737,5 +6737,3 @@
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-12-02 02:45:02"
 "colchoesagf.com.br","DigitalSide Malware report: MD5: 190517d80c4edcef8a6c2b0a017941b0","2022-12-01 16:47:13"
 "colchoesagf.com.br","DigitalSide Malware report: MD5: c0d2333eabdf91d3c2a68a011c0ed452","2022-12-01 16:45:07"
-"colchoesagf.com.br","DigitalSide Malware report: MD5: 409e2d09f3675bd1d2cdac3bb003f78d","2022-12-01 14:17:13"
-"colchoesagf.com.br","DigitalSide Malware report: MD5: 13d8c2f2cdf5f6208c3e999621019304","2022-12-01 14:15:18"
