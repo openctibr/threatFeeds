@@ -618,7 +618,6 @@
 "acom.digipix.com.br","PhishingToday feed","2022-12-31 02:50:15"
 "shop.delico.com.br","PulseDive Domains feed","2022-12-31 02:45:02"
 "hostechnet.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-12-30 15:40:06"
-"http://hostechnet.com.br","MalwarePatrol Mozilla AdBlock feed","2022-12-30 04:40:07"
 "shop.delico.com.br","PulseDive Domains feed","2022-12-30 03:30:09"
 "www.financiamento.portosegurotemcarrofacil.com.br","CertStream feed","2022-12-30 02:55:02"
 "leiloes.oliverdesapego.com.br","CertStream feed","2022-12-30 02:55:02"
