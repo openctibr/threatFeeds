@@ -1,3 +1,4 @@
+"tradicaomaringa.com.br","Cuckoo Sandbox analysis #31080","2023-01-07 07:46:03"
 "http://magaliexpress.com.br","Phishtank online valid phishing feed","2023-01-07 03:32:15"
 "http://www.magaliexpress.com.br","Phishtank online valid phishing feed","2023-01-07 03:32:15"
 "http://sartorioesilva.com.br","Phishtank online valid phishing feed","2023-01-07 03:32:11"
@@ -4859,5 +4860,3 @@
 "https://www.my-netbank.commbank.application.com.au.pank.com.br","PhishingToday feed","2022-12-09 02:50:14"
 "shop.delico.com.br","PulseDive Domains feed","2022-12-09 02:45:01"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-12-09 02:45:01"
-"www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #69959","2022-12-08 07:35:29"
-"www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #69901","2022-12-08 06:45:23"
