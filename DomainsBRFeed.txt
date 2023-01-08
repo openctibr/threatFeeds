@@ -4814,7 +4814,3 @@
 "git.gitlab.gitlab.git.git.novo-mercado.memberkit.com.br","CertStream feed","2022-12-10 02:55:14"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-12-10 02:45:28"
 "shop.delico.com.br","PulseDive Domains feed","2022-12-10 02:45:22"
-"www.minasvix.com.br","Cuckoo Sandbox analysis #72393","2022-12-09 08:29:56"
-"geovanisantos.adv.br","Cuckoo Sandbox analysis #72209","2022-12-09 07:28:28"
-"www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #72011","2022-12-09 05:17:46"
-"www.minasvix.com.br","Cuckoo Sandbox analysis #71877","2022-12-09 03:57:27"
