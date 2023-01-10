@@ -4608,4 +4608,3 @@
 "acom.digipix.com.br","PhishingToday feed","2022-12-12 02:50:39"
 "ww.error.de.transferencias.pe.eletrociclomorais.com.br","PulseDive Domains feed","2022-12-12 02:45:02"
 "shop.delico.com.br","PulseDive Domains feed","2022-12-12 02:45:01"
-"www.minasvix.com.br","Cuckoo Sandbox analysis #76551","2022-12-11 04:24:46"
