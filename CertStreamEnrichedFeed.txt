@@ -150,3 +150,4 @@
 "zika-virus-hilfe.de"|"DNS:*.zika-virus-hilfe.de, DNS:zika-virus-hilfe.de"|"1a:e9:11:70:14:b8:79:ef:6d:ae:b2:da:30:bf:ae:6f"
 "zleventospanama.com"|"DNS:zleventospanama.com, DNS:www.zleventospanama.com"|"de:0b:aa:65:b7:15:e6:cd:99:a1:60:48:1b:c9:2e:ef"
 "zukermanleiloes.com"|"DNS:www.zukermanleiloes.com, DNS:zukermanleiloes.com"|"04:e2:95:c9:72:74:67:3b:a6:85:b1:a6:09:34:fd:3a:c0:ac"
+"zx-virus.keenetic.pro"|""|""
