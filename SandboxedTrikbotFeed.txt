@@ -15,4 +15,7 @@
 "8cf83c7e71254a6ca5d40d58470897479c49e4c3","sha1"
 "9bd9c549bbc48239da1fe1bb8da79e563afc98a1","sha1"
 "c4caf30d5ef7b05d8cd947eb1775a3b088901523","sha1"
+"clipper.guru","domain|ip"
 "e65f40ce3d58d2634807945b468acf0fbc3f6b06631d499dcd99536ed4fae4bc","sha256"
+"http://clipper.guru/bot/online?guid=JSPC\\JS&key=5ef1aac7b3430729f6cbc95fb4d2d2a62582e7382955ffc87026077cb28ab31e","url"
+"http://clipper.guru/bot/regex?key=5ef1aac7b3430729f6cbc95fb4d2d2a62582e7382955ffc87026077cb28ab31e","url"
