@@ -1,3 +1,5 @@
+"www.tvculturaourofino.com.br","Cuckoo Sandbox analysis #14895","2023-01-24 07:09:13"
+"http://www.escolasantarita.com.br","MalwarePatrol Mozilla AdBlock feed","2023-01-24 04:40:18"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-24 03:30:14"
 "leilaoaovivolances.com.br","CertStream feed","2023-01-24 02:55:02"
 "www.cadastro.comprarimoveisnoparana.com.br","CertStream feed","2023-01-24 02:55:02"
@@ -489,7 +491,6 @@
 "https://clienteodonto.com.br","PhishingToday feed","2023-01-22 02:50:02"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-22 02:45:01"
 "2023foco.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-21 15:40:17"
-"http://2023foco.com.br","MalwarePatrol Mozilla AdBlock feed","2023-01-21 04:40:16"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-21 03:30:38"
 "www.atendimento.vbcapital.com.br","CertStream feed","2023-01-21 02:55:06"
 "www.atualiza.aceguaruja.com.br","CertStream feed","2023-01-21 02:55:06"
