@@ -1,2 +1,6 @@
-"git.git.git.git.astrazeneca.closetcandy.com"|""|""
-"git.git.git.git.git.astrazeneca-haikom.corp.closetcandy.com"|""|""
+"git.git.git.gitlab.git.git.astrazeneca-haikom.corp.100fuersbb.ch"|""|""
+"git.git.git.gitlab.git.git.astrazeneca-haikom.corp.pinepage.com"|""|""
+"git.git.git.gitlab.git.git.astrazeneca.100fuersbb.ch"|""|""
+"git.git.git.gitlab.git.git.hr.clinica-marketing.ru"|"DNS:git.git.git.gitlab.git.git.hr.clinica-marketing.ru, DNS:www.git.git.git.gitlab.git.git.hr.clinica-marketing.ru"|"03:64:c6:d7:76:72:55:41:b7:b4:60:af:14:ec:a2:a0:f8:16"
+"git.git.git.gitlab.git.krasnogorsk.pro-internet.ru"|"DNS:git.git.git.gitlab.git.krasnogorsk.pro-internet.ru, DNS:www.git.git.git.gitlab.git.krasnogorsk.pro-internet.ru"|"03:a3:98:87:59:3d:61:38:19:fd:ad:b5:34:77:b3:cd:a7:21"
+"git.git.git.gitlab.gitlab.app.clinica-marketing.ru"|"DNS:git.git.git.gitlab.gitlab.app.clinica-marketing.ru, DNS:www.git.git.git.gitlab.gitlab.app.clinica-marketing.ru"|"03:e5:1f:77:43:eb:c5:77:36:6b:4f:3f:97:0b:1c:21:ee:b4"

@@ -4248,4 +4248,3 @@
 "b2bcambio.com.br","PhishingToday feed","2022-12-27 02:50:07"
 "acom.digipix.com.br","PhishingToday feed","2022-12-27 02:50:06"
 "www.geovanisantos.adv.br","Cuckoo Sandbox analysis #7610","2022-12-27 00:10:54"
-"mail.godstar.com.br","Cuckoo Sandbox analysis #6503","2022-12-26 10:53:39"
