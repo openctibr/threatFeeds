@@ -4319,4 +4319,3 @@
 "amil.sistemadeindicacoes.com.br","PhishingToday feed","2022-12-28 02:50:07"
 "cemageng.com.br","DigitalSide Malware report: MD5: 70d95ececad9aebf59ef9598eec18995","2022-12-28 01:37:04"
 "megalinkbj.com.br","Cuckoo Sandbox analysis #9477","2022-12-27 20:12:26"
-"cemageng.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2022-12-27 15:40:05"
