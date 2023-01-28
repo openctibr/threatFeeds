@@ -4391,4 +4391,3 @@
 "acom.digipix.com.br","PhishingToday feed","2022-12-30 02:50:06"
 "http://tim.app.br","PhishingToday feed","2022-12-30 02:50:03"
 "shop.delico.com.br","PulseDive Domains feed","2022-12-30 02:45:01"
-"hostechnet.com.br","DigitalSide Malware report: MD5: a781b8f536dc01c021db8e4239fd190e","2022-12-29 05:50:06"
