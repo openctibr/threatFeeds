@@ -1,3 +1,5 @@
+"detail-booking.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-30 15:40:19"
+"http://detail-booking.com.br","MalwarePatrol Mozilla AdBlock feed","2023-01-30 04:40:13"
 "favpf.empresarial.app.br","CertStream feed","2023-01-30 02:55:02"
 "www.atualiza.cbpc.org.br","CertStream feed","2023-01-30 02:55:02"
 "www.laboratorio.molinspace.com.br","CertStream feed","2023-01-30 02:55:02"
