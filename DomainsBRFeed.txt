@@ -5990,8 +5990,3 @@
 "acom.digipix.com.br","PhishingToday feed","2023-01-07 02:50:17"
 "https://opensea-nft.phytoativo.com.br","PhishingToday feed","2023-01-07 02:50:03"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-07 02:45:01"
-"www.osmarmotores.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-06 15:40:20"
-"www.solucoesinfotec.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-06 15:40:20"
-"escolasantarita.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-06 15:40:19"
-"idpapaedegoiania.bio.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-06 15:40:19"
-"http://idpapaedegoiania.bio.br","MalwarePatrol Mozilla AdBlock feed","2023-01-06 04:40:44"
