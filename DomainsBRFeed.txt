@@ -6043,4 +6043,3 @@
 "algotextil.com.br","PhishingToday feed","2023-01-10 02:50:07"
 "http://tmobo.gruplast.com.br","PhishingToday feed","2023-01-10 02:50:02"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-10 02:45:01"
-"liberacao.sh3.com.br","DigitalSide Malware report: MD5: c93692cac2421854167a3158fbe2e653","2023-01-09 11:47:33"
