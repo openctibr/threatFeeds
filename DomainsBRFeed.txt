@@ -6101,4 +6101,3 @@
 "https://www.magalubrasil.com.br","PhishingToday feed","2023-01-13 02:50:02"
 "http://rbcroyalbank.mallmannconsultoria.com.br","PhishingToday feed","2023-01-13 02:50:01"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-13 02:45:01"
-"equimec.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-12 15:40:17"
