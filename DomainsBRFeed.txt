@@ -1393,7 +1393,6 @@
 "https://clienteodonto.com.br","PhishingToday feed","2023-02-07 02:50:02"
 "madesoft.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-02-06 15:40:21"
 "detoxviva.com.br","DigitalSide Malware report: MD5: e3ab1a19bbe6091e10550086c676e189","2023-02-06 12:57:30"
-"http://madesoft.com.br","MalwarePatrol Mozilla AdBlock feed","2023-02-06 04:40:17"
 "*.leiloes.adv.br","CertStream feed","2023-02-06 02:55:03"
 "leiloes.adv.br","CertStream feed","2023-02-06 02:55:03"
 "leiloes.pinhata.com.br","CertStream feed","2023-02-06 02:55:03"
