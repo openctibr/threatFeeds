@@ -6258,4 +6258,3 @@
 "https://liberus.com.br","PhishingToday feed","2023-01-16 02:50:04"
 "http://www.itauconsorcionline.com.br","PhishingToday feed","2023-01-16 02:50:04"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-16 02:45:01"
-"gurathen.munited.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-15 15:40:18"
