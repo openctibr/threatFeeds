@@ -6299,4 +6299,3 @@
 "http://atualizarcolaborador.com.br","PhishingToday feed","2023-01-17 02:50:03"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-17 02:45:01"
 "procurorendaextra.com.br","DigitalSide Malware report: MD5:","2023-01-16 23:12:33"
-"clubecertosaude.com.br","DigitalSide Malware report: MD5:","2023-01-16 08:33:34"
