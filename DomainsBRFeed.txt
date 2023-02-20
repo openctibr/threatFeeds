@@ -6483,4 +6483,3 @@
 "http://geta.adv.br","PhishingToday feed","2023-01-22 02:50:02"
 "https://clienteodonto.com.br","PhishingToday feed","2023-01-22 02:50:02"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-22 02:45:01"
-"2023foco.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-01-21 15:40:17"
