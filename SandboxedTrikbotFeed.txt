@@ -5,7 +5,6 @@
 "cf20e35b20957fef33fe5fee583dbb9ff0c8ffb5","filename|sha1"
 "8413dd146625dc09556e13564f315de5fac738fdd753791982f9657a9553ed2a","filename|sha256"
 "142.250.184.227","ip-dst"
-"172.217.133.232","ip-dst"
 "172.217.16.195","ip-dst"
 "23.216.77.69","ip-dst"
 "23.216.77.80","ip-dst"
