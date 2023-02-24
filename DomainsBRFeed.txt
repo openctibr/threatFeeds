@@ -1,3 +1,4 @@
+"argentum.com.br","Cuckoo Sandbox analysis #1239","2023-02-24 04:57:43"
 "shop.delico.com.br","PulseDive Domains feed","2023-02-24 03:30:54"
 "www.atendimento.dcoracoes.com.br","CertStream feed","2023-02-24 02:55:03"
 "paveiweb.acesso.smartdocumentos.com.br","CertStream feed","2023-02-24 02:55:03"
@@ -762,7 +763,6 @@
 "http://jode-to.com.br","PhishingToday feed","2023-02-22 02:50:09"
 "http://jujur.ya.sebenarnya.aku.sayang.kamu.megafitness.com.br","PhishingToday feed","2023-02-22 02:50:09"
 "http://lajesramos.com.br","PhishingToday feed","2023-02-22 02:50:09"
-"http://madesoft.com.br","MalwarePatrol Mozilla AdBlock feed","2023-02-21 04:40:12"
 "www.allwe-seguros.allwe-seg.com.br","CertStream feed","2023-02-21 02:55:03"
 "moralesleiloes.com.br","CertStream feed","2023-02-21 02:55:03"
 "www.cadastro.tritravel.com.br","CertStream feed","2023-02-21 02:55:03"
