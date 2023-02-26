@@ -6954,4 +6954,3 @@
 "https://clienteodonto.com.br","PhishingToday feed","2023-01-28 02:50:03"
 "http://geta.adv.br","PhishingToday feed","2023-01-28 02:50:02"
 "shop.delico.com.br","PulseDive Domains feed","2023-01-28 02:45:01"
-"sallara.com.br","CCCS Weekly Technical Report Volume 2023-04 (25 January 2023)","2023-01-27 13:37:00"
