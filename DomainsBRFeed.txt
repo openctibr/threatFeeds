@@ -1,3 +1,5 @@
+"http://idpapaedegoiania.bio.br","MalwarePatrol Mozilla AdBlock feed","2023-02-27 04:40:11"
+"http://madesoft.com.br","MalwarePatrol Mozilla AdBlock feed","2023-02-27 04:40:11"
 "shop.delico.com.br","PulseDive Domains feed","2023-02-27 03:30:47"
 "velhoarmazemleiloes.lel.br","CertStream feed","2023-02-27 02:55:02"
 "www.velhoarmazemleiloes.lel.br","CertStream feed","2023-02-27 02:55:02"
