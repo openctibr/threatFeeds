@@ -7395,5 +7395,3 @@
 "agrodkv.eco.br","PhishingToday feed","2023-02-07 02:50:09"
 "http://geta.adv.br","PhishingToday feed","2023-02-07 02:50:02"
 "https://clienteodonto.com.br","PhishingToday feed","2023-02-07 02:50:02"
-"madesoft.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-02-06 15:40:21"
-"detoxviva.com.br","DigitalSide Malware report: MD5: e3ab1a19bbe6091e10550086c676e189","2023-02-06 12:57:30"
