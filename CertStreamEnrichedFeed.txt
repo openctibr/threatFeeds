@@ -1,4 +1,1 @@
-"keskoloyalty.cards-mastercard.internal.aws.op-palvelut.fi"|""|""
-"keycloak.dev.hsbc-sbx.kaleido.cloud"|"DNS:*.dev.hsbc-sbx.kaleido.cloud"|"04:0c:ab:1d:15:d6:19:94:f8:ee:6d:2c:af:3a:eb:07:3a:bf"
-"keycloak.interprocom.ru"|"DNS:agro-stage.interprocom.ru, DNS:bastion-meet3.interprocom.ru, DNS:keycloak.interprocom.ru, DNS:repo.interprocom.ru"|"04:af:66:2c:2d:8c:4f:24:28:85:91:49:18:46:d8:62:47:c4"
-"kf.l-santander-es.com"|"DNS:kf.l-santander-es.com"|"03:9c:04:f0:c3:cc:e1:6f:e7:4b:b5:c8:3b:c9:78:a1:88:8f"
+domain|Subject Alternative Name|Certificate SerialNumber
