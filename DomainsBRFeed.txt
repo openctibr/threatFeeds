@@ -1,3 +1,4 @@
+"nutriverdeba.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-03-12 15:40:30"
 "http://madesoft.com.br","MalwarePatrol Mozilla AdBlock feed","2023-03-12 04:40:19"
 "http://meucapricho.com.br","MalwarePatrol Mozilla AdBlock feed","2023-03-12 04:40:19"
 "http://nutriverdeba.com.br","MalwarePatrol Mozilla AdBlock feed","2023-03-12 04:40:19"
