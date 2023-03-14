@@ -1,3 +1,5 @@
+"atomm.com.br","Cuckoo Sandbox analysis #1205","2023-03-13 13:07:16"
+"ebaoffice.com.br","Cuckoo Sandbox analysis #816","2023-03-13 07:45:24"
 "www.cartao.alliah.org.br","CertStream feed","2023-03-13 02:55:02"
 "www.aplicativo.stbisp.com.br","CertStream feed","2023-03-13 02:55:02"
 "www.cadastro.fisiorespirando.com.br","CertStream feed","2023-03-13 02:55:02"
@@ -7597,4 +7599,3 @@
 "https://clienteodonto.com.br","PhishingToday feed","2023-02-12 02:50:03"
 "http://geta.adv.br","PhishingToday feed","2023-02-12 02:50:02"
 "shop.delico.com.br","PulseDive Domains feed","2023-02-12 02:45:05"
-"www.mzeducacao.com.br","DigitalSide Malware report: MD5: ef36cda711f19fe6244dd3b7678b24d7","2023-02-11 07:35:16"
