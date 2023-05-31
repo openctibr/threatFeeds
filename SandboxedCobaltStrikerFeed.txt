@@ -1,7 +1,0 @@
-"4dbf8e4a3844aa3bf3a9714b91accffbee8a9900","sha1"
-"b1aa956509d3d708d9fcbc32510c448d8fcd476a682015529784af2fa4486ba8","sha256"
-"cfffd8f19174f53ca45cd1e2d3ba73d3","md5"
-"http://edgedl.me.gvt1.com/edgedl/release2/update2/actxsdodvxbjblyjfcbcbc7srcwa_1.3.36.242/GoogleUpdateSetup.exe","url"
-"cfffd8f19174f53ca45cd1e2d3ba73d3","filename|md5"
-"4dbf8e4a3844aa3bf3a9714b91accffbee8a9900","filename|sha1"
-"b1aa956509d3d708d9fcbc32510c448d8fcd476a682015529784af2fa4486ba8","filename|sha256"
