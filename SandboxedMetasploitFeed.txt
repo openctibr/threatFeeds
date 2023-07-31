@@ -1,0 +1,8 @@
+"077650d59a1dc8ce31af743e8a07e322","md5"
+"3.136.65.236","ip-dst"
+"b34500bff415736385b8ab3c00e53348238743b4","sha1"
+"de6918e28b8330ba3ee65eb47cf4cb9a6e3794af2208b7921b0b9870f6da0cbb","sha256"
+"https://update.googleapis.com/service/update2","url"
+"077650d59a1dc8ce31af743e8a07e322","filename|md5"
+"b34500bff415736385b8ab3c00e53348238743b4","filename|sha1"
+"de6918e28b8330ba3ee65eb47cf4cb9a6e3794af2208b7921b0b9870f6da0cbb","filename|sha256"
