@@ -1,8 +1,0 @@
-"48cab21fcbe254e7c83f4c1d455a39dc","filename|md5"
-"b96c1f765abb14eb401cacab6f6e203c3a255df9","filename|sha1"
-"f1b9d5520ba13179e19b336e542d18b0bd9f39a2b41d88a739625c8480422b73","filename|sha256"
-"48cab21fcbe254e7c83f4c1d455a39dc","md5"
-"b96c1f765abb14eb401cacab6f6e203c3a255df9","sha1"
-"f1b9d5520ba13179e19b336e542d18b0bd9f39a2b41d88a739625c8480422b73","sha256"
-"http://edgedl.me.gvt1.com/edgedl/release2/update2/ad2euzfgyfswfjzdrw4y2cqdjkpa_1.3.36.212/GoogleUpdateSetup.exe","url"
-"https://update.googleapis.com/service/update2","url"
