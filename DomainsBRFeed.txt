@@ -8,4 +8,3 @@
 "http://ikaaa.bsamorim.adv.br","Phishtank online valid phishing feed","2023-08-04 03:30:10"
 "https://lcmcomstruction.ca/Mdominio.administrativo@caixa.gov.br","Phishtank online valid phishing feed","2023-08-03 03:30:10"
 "guiadosmelhoresprodutos.com.br","DigitalSide Malware report: MD5: 527074a3d6c653f6212e5419aebc480e","2023-07-31 16:32:11"
-"http://facebooksecuritys.blogspot.com.br","Phishunt.io feed","2023-07-30 04:52:02"
