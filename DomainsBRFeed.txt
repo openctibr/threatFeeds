@@ -12,4 +12,3 @@
 "https://www.appdigital-bancolombia.clinicaimune.com.br","PhishScore feed","2023-08-05 03:01:17"
 "https://fez-krrdbo6imq-uc.a.run.app/#www.bb.com.br","PhishScore feed","2023-08-05 03:01:15"
 "http://ikaaa.bsamorim.adv.br","Phishtank online valid phishing feed","2023-08-04 03:30:10"
-"https://lcmcomstruction.ca/Mdominio.administrativo@caixa.gov.br","Phishtank online valid phishing feed","2023-08-03 03:30:10"
