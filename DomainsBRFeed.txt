@@ -1,5 +1,4 @@
 "www.jrpdv.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-08-12 15:40:06"
-"http://www.jrpdv.com.br","MalwarePatrol Mozilla AdBlock feed","2023-08-12 04:40:16"
 "https://o3imt.bsamorim.adv.br","PhishScore feed","2023-08-12 03:00:38"
 "http://www.appdigital-bancolombia.clinicaimune.com.br","PhishScore feed","2023-08-12 03:00:36"
 "https://nicollylorenzi.com.br","PhishScore feed","2023-08-12 03:00:34"
