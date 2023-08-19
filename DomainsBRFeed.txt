@@ -1,3 +1,4 @@
+"http://click.email.e-nike.com.br","Phishtank online valid phishing feed","2023-08-18 03:30:11"
 "www.jrpdv.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-08-12 15:40:06"
 "https://o3imt.bsamorim.adv.br","PhishScore feed","2023-08-12 03:00:38"
 "http://www.appdigital-bancolombia.clinicaimune.com.br","PhishScore feed","2023-08-12 03:00:36"
@@ -5,4 +6,3 @@
 "http://20.223.134.63/app/premium/#www.itau.com.br","PhishScore feed","2023-08-12 03:00:31"
 "http://20.223.134.63/app/premium/##www.itau.com.br","PhishScore feed","2023-08-12 03:00:31"
 "http://20.223.134.63/app/premium/#www.bb.com.br","PhishScore feed","2023-08-12 03:00:31"
-"http://axosbank.com.br","Phishtank online valid phishing feed","2023-08-11 03:30:09"
