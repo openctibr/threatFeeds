@@ -7,4 +7,3 @@
 "workwinrarhost.ddns.com.br","ThreatFox IOCs for 2023-09-10","2023-09-10 18:11:59"
 "herbet.ddns.com.br","ThreatFox IOCs for 2023-09-10","2023-09-10 17:42:18"
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #15571","2023-09-08 09:43:21"
-"uploaddeimagens.com.br","DigitalSide Malware report: MD5: d90189d511657aefaf4d0239cedc3d47","2023-09-07 04:14:32"
