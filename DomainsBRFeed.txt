@@ -1,3 +1,4 @@
+"econorthbrasil.com.br","Cuckoo Sandbox analysis #17240","2023-09-16 07:55:07"
 "www.mqs.com.br","Cuckoo Sandbox analysis #16916","2023-09-15 06:49:20"
 "skinabon.com.br","DigitalSide Malware report: MD5: 047588f6b860814057c2fd2287561f43","2023-09-12 04:52:41"
 "bbbr1.ddns.com.br","ThreatFox IOCs for 2023-09-10","2023-09-10 19:37:16"
