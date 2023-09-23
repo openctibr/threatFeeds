@@ -3,4 +3,3 @@
 "https://webmailprox.com/index.php#www.cef.com.br","Phishtank online valid phishing feed","2023-09-17 03:30:33"
 "https://webmailprox.com/index.php#www.bb.com.br","Phishtank online valid phishing feed","2023-09-17 03:30:33"
 "econorthbrasil.com.br","Cuckoo Sandbox analysis #17240","2023-09-16 07:55:07"
-"www.mqs.com.br","Cuckoo Sandbox analysis #16916","2023-09-15 06:49:20"
