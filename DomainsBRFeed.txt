@@ -1,3 +1,6 @@
+"omnibeees.ddns.com.br","ThreatFox IOCs for 2023-09-27","2023-09-27 11:09:03"
+"paiveio123.ddns.com.br","ThreatFox IOCs for 2023-09-27","2023-09-27 10:53:53"
+"uploaddeimagens.com.br","DigitalSide Malware report: MD5: 8496654930be3db6cea0ba62ffe5add9","2023-09-26 05:22:08"
 "gmpacademy.com.br","DigitalSide Malware report: MD5: b49b55e69ff8342ff02bc78ec4250945","2023-09-25 21:22:03"
 "uploaddeimagens.com.br","DigitalSide Malware report: MD5: 7832e7ed00902e4c38169973cd2d3f8f","2023-09-22 17:34:14"
 "advocaciasch.com.br","DigitalSide Malware report: MD5: 133885a7af39651b31907717c87eeb5b","2023-09-22 12:19:05"
