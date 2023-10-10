@@ -1,3 +1,4 @@
+"http://facebook-log.blogspot.com.br","Phishunt.io feed","2023-10-10 04:52:02"
 "mail.godstar.com.br","Cuckoo Sandbox analysis #10519","2023-10-09 00:49:21"
 "mail.godstar.com.br","Cuckoo Sandbox analysis #8053","2023-10-08 03:25:29"
 "https://cef.vrcartao.com.br","Phishtank online valid phishing feed","2023-10-07 03:30:08"
