@@ -3,5 +3,3 @@
 "https://tinyurl.com/3hp23vh4/?email=ag1593@caixa.gov.br","PhishScore feed","2023-10-12 03:00:09"
 "https://www.igacon.com.br","Phishtank online valid phishing feed","2023-10-11 03:30:15"
 "https://tinyurl.com/3hp23vh4/?email=ag1593@caixa.gov.br","Phishtank online valid phishing feed","2023-10-11 03:30:12"
-"http://facebook-log.blogspot.com.br","Phishunt.io feed","2023-10-10 04:52:02"
-"mail.godstar.com.br","Cuckoo Sandbox analysis #10519","2023-10-09 00:49:21"
