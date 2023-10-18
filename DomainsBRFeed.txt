@@ -1,5 +1,3 @@
 "il92.crisgui.com.br","ThreatFox IOCs for 2023-10-13","2023-10-13 16:49:56"
 "ingapos.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-10-12 15:40:06"
 "https://tinyurl.com/3hp23vh4/?email=ag1593@caixa.gov.br","PhishScore feed","2023-10-12 03:00:09"
-"https://www.igacon.com.br","Phishtank online valid phishing feed","2023-10-11 03:30:15"
-"https://tinyurl.com/3hp23vh4/?email=ag1593@caixa.gov.br","Phishtank online valid phishing feed","2023-10-11 03:30:12"
