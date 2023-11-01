@@ -42,4 +42,3 @@
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #14922","2023-10-29 04:04:35"
 "uploaddeimagens.com.br","DigitalSide Malware report: MD5: 8b06ccba22901ad91275c5bdcbd90a4f","2023-10-25 18:43:16"
 "blog.cartezyan.com.br","ThreatFox IOCs for 2023-10-25","2023-10-25 16:25:05"
-"mail.pinheroneto.com.br","ThreatFox IOCs for 2023-10-24","2023-10-24 16:32:34"
