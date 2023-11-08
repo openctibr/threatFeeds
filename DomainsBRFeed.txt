@@ -1,5 +1,8 @@
+"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-08 03:30:36"
+"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-08 02:45:01"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-07 03:30:19"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-07 02:45:02"
+"www.hey-randomgirl.com.br","DigitalSide Malware report: MD5: f990fd3d664b4a2cd89a21cb6e2a9911","2023-11-06 09:17:14"
 "mail.godstar.com.br","Cuckoo Sandbox analysis #4307","2023-11-06 07:36:38"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-06 03:30:22"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-06 02:45:02"
