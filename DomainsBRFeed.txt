@@ -1,3 +1,6 @@
+"http://madesoft.com.br","MalwarePatrol Mozilla AdBlock feed","2023-11-09 04:40:07"
+"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-09 02:45:01"
+"msmistura.com.br","Cuckoo Sandbox analysis #6258","2023-11-08 06:56:57"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-08 03:30:36"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-08 02:45:01"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-07 03:30:19"
@@ -15,6 +18,3 @@
 "https://tinyurl.com/megafonedigitalcombr?_user=abc@abc.com.br","Phishtank online valid phishing feed","2023-11-03 03:30:09"
 "https://tinyurl.com/megafonedigitalcombr?_user=abc@abc.com.br","PhishScore feed","2023-11-03 03:00:14"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-03 02:45:01"
-"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-02 03:30:24"
-"https://tinyurl.com/587uux2t/?email=ag3781rn@caixa.gov.br","PhishScore feed","2023-11-02 03:00:38"
-"https://snapchat-pujitha-pics-login-u.blogspot.com.br","PhishScore feed","2023-11-02 03:00:24"
