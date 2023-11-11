@@ -1,3 +1,4 @@
+"https://www.tiresspneus.com.br","Phishtank online valid phishing feed","2023-11-11 03:30:11"
 "https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-10 04:52:02"
 "https://cimentofortedeverdade.com.br","Phishtank online valid phishing feed","2023-11-10 03:30:17"
 "http://madesoft.com.br","MalwarePatrol Mozilla AdBlock feed","2023-11-09 04:40:07"
@@ -13,5 +14,3 @@
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-06 02:45:02"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-05 03:30:35"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-05 02:45:02"
-"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-04 03:30:24"
-"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-04 02:45:01"
