@@ -12,5 +12,3 @@
 "mail.godstar.com.br","Cuckoo Sandbox analysis #4307","2023-11-06 07:36:38"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-06 03:30:22"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-06 02:45:02"
-"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-05 03:30:35"
-"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-05 02:45:02"
