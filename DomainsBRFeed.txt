@@ -3,8 +3,5 @@
 "https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-13 04:52:02"
 "https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-10 04:52:02"
 "https://cimentofortedeverdade.com.br","Phishtank online valid phishing feed","2023-11-10 03:30:17"
-"http://madesoft.com.br","MalwarePatrol Mozilla AdBlock feed","2023-11-09 04:40:07"
 "mail.cm2dev.com.br","PulseDive Domains feed","2023-11-09 02:45:01"
 "msmistura.com.br","Cuckoo Sandbox analysis #6258","2023-11-08 06:56:57"
-"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-08 03:30:36"
-"mail.cm2dev.com.br","PulseDive Domains feed","2023-11-08 02:45:01"
