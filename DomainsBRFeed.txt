@@ -5,4 +5,3 @@
 "eletron-show.web103.f1.k8.com.br","Cuckoo Sandbox analysis #10115","2023-11-13 07:44:41"
 "miltonpintor.web103.f1.k8.com.br","Cuckoo Sandbox analysis #10115","2023-11-13 07:44:41"
 "https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-13 04:52:02"
-"https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-10 04:52:02"
