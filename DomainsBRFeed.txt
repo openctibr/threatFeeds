@@ -1,3 +1,4 @@
+"https://pub-8daf9f515c0b46a1b60bb1985f392936.r2.dev/genge04.html#itaucartoespj@itau.com.br","Phishtank online valid phishing feed","2023-11-23 03:30:16"
 "https://pub-8daf9f515c0b46a1b60bb1985f392936.r2.dev/genge04.html#itaucartoespj@itau.com.br","PhishScore feed","2023-11-22 03:00:18"
 "mail.alphaassessoriato.com.br","MalwarePatrol Mozilla AdBlock HostIP feed","2023-11-21 15:40:07"
 "maestroloja.com.br","Cuckoo Sandbox analysis #11598","2023-11-21 06:45:17"
