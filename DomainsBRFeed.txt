@@ -1,3 +1,6 @@
+"http://facebooksecuritys.blogspot.com.br","Phishunt.io feed","2023-11-24 04:52:02"
+"https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-24 04:52:02"
+"http://idpapaedegoiania.bio.br","MalwarePatrol Mozilla AdBlock feed","2023-11-24 04:40:10"
 "https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-23 04:52:02"
 "https://pub-8daf9f515c0b46a1b60bb1985f392936.r2.dev/genge04.html#itaucartoespj@itau.com.br","Phishtank online valid phishing feed","2023-11-23 03:30:16"
 "nazarenoagape.com.br","DigitalSide Malware report: MD5: d6e62b506ec1e430814414541283f7ad","2023-11-22 13:32:17"
