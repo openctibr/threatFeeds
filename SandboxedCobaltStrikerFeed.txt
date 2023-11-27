@@ -7,6 +7,3 @@
 "e0f29bcb67f42e5c8bf02875d18e986a","filename|md5"
 "4c9b368053817a17442ceadb6ef9617d925b83b4","filename|sha1"
 "4c70dd5960a6a89f9c6f83168a5f9cd4f91042ee6330f9a1cd5af26ba169cabf","filename|sha256"
-"01b6e4c26dea623d00ff47cb2f78f78f","filename|md5"
-"3b9622bc4dedb3d0c9cb8b3df7e70001d3f8d6d8","filename|sha1"
-"c8e9cddba27fa70d43d3f723195e2cacc16e3b16fdd4f0da41ac3c60dce28735","filename|sha256"

@@ -14,5 +14,3 @@
 "http://facebook-log.blogspot.com.br","Phishunt.io feed","2023-11-21 04:52:02"
 "http://mail.alphaassessoriato.com.br","MalwarePatrol Mozilla AdBlock feed","2023-11-21 04:40:09"
 "uploaddeimagens.com.br","DigitalSide Malware report: MD5: cc15e8842756c94e7ee1d26a6bfb4786","2023-11-20 04:33:15"
-"https://facebook-956aaaa.pages.net.br","Phishunt.io feed","2023-11-19 04:52:02"
-"uploaddeimagens.com.br","DigitalSide Malware report: MD5: 9754469a55fe10f2a4f93e46b3f605a4","2023-11-19 04:13:14"
