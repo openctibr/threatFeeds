@@ -1,6 +1,4 @@
+"https://th-th-facebooks.pages.net.br","Phishunt.io feed","2023-12-06 04:52:01"
 "chaoscard.com.br","ThreatFox IOCs for 2023-12-04","2023-12-04 19:30:52"
 "wiipo.com.ht-hldrotermica.com.br","ThreatFox IOCs for 2023-12-04","2023-12-04 11:20:33"
-"https://proativa.konkisti.com.br","MalwarePatrol Mozilla AdBlock feed","2023-12-03 04:40:12"
 "http://mail.alphaassessoriato.com.br","MalwarePatrol Mozilla AdBlock feed","2023-12-03 04:40:11"
-"https://syst-mean.swanndvr.net/FMfcgzGwHpXJpKBtJRrQlcbGhSQtPPTr/1783722251667719859/FMfcgzGwHpXJpKBtJRrQlcbGhSQtPPTrFMfcgzGwHpXJpKBtJRrQlcbGhSQtPPTr/1783722251667719859/#www.bb.com.br","Phishtank online valid phishing feed","2023-11-30 03:30:17"
-"https://686868.pages.net.br","PhishScore feed","2023-11-30 03:00:13"
