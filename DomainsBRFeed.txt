@@ -11,6 +11,3 @@
 "https://de-de-facebooks.pages.net.br","Phishunt.io feed","2023-12-11 04:52:01"
 "https://de-de-facebooks.pages.net.br","Phishunt.io feed","2023-12-10 04:52:01"
 "https://th-th-facebooks.pages.net.br","Phishunt.io feed","2023-12-10 04:52:01"
-"http://twittermzhp.exclusifmoveis.com.br","PhishScore feed","2023-12-10 03:00:18"
-"https://th-th-facebooks.pages.net.br","Phishunt.io feed","2023-12-09 04:52:01"
-"https://de-de-facebooks.pages.net.br","Phishunt.io feed","2023-12-09 04:52:01"
