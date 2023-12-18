@@ -9,5 +9,3 @@
 "uploaddeimagens.com.br","DigitalSide Malware report: MD5: f7cd5365c56b4374a609fc0e2f5c43e7","2023-12-11 09:00:12"
 "https://th-th-facebooks.pages.net.br","Phishunt.io feed","2023-12-11 04:52:01"
 "https://de-de-facebooks.pages.net.br","Phishunt.io feed","2023-12-11 04:52:01"
-"https://de-de-facebooks.pages.net.br","Phishunt.io feed","2023-12-10 04:52:01"
-"https://th-th-facebooks.pages.net.br","Phishunt.io feed","2023-12-10 04:52:01"
