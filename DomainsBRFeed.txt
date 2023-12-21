@@ -1,4 +1,6 @@
+"https://pub-8daf9f515c0b46a1b60bb1985f392936.r2.dev/genge04.html#itaucartoespj@itau.com.br","Phishunt.io feed","2023-12-20 04:52:02"
 "https://culturafocus.com.br","Phishtank online valid phishing feed","2023-12-20 03:30:14"
+"onucleo.com.br","ThreatFox IOCs for 2023-12-19","2023-12-18 21:04:45"
 "focussci.com.br","DigitalSide Malware report: MD5: 13945e486768550da1bfc238af72e546","2023-12-14 09:34:08"
 "tictocpaix.com.br","Cuckoo Sandbox analysis #4810","2023-12-14 07:52:14"
 "cjet.com.br","Cuckoo Sandbox analysis #4776","2023-12-14 07:31:13"
