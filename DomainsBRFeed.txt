@@ -4,4 +4,3 @@
 "paquerasfacilitadas.fun.g10corretora.com.br","ThreatFox IOCs for 2023-12-20","2023-12-20 18:08:45"
 "www.rede.tphost.com.br","ThreatFox IOCs for 2023-12-20","2023-12-20 18:08:41"
 "https://pub-8daf9f515c0b46a1b60bb1985f392936.r2.dev/genge04.html#itaucartoespj@itau.com.br","Phishunt.io feed","2023-12-20 04:52:02"
-"https://culturafocus.com.br","Phishtank online valid phishing feed","2023-12-20 03:30:14"
