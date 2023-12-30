@@ -1,3 +1,2 @@
-"https://696968.pages.net.br","PhishScore feed","2023-12-29 03:00:15"
 "http://https-m-login-facebook-profile-com.blogspot.com.br","Phishunt.io feed","2023-12-28 04:52:02"
 "https://southamerica-east1-solid-facility-406622.cloudfunctions.net/pontos?cid=danipimo@terra.com.br","Phishtank online valid phishing feed","2023-12-28 03:30:18"
