@@ -1,3 +1,1 @@
 "http://sacola.magazinevoce.com.br/sacola.magazinevoce.com.br","PhishScore feed","2024-01-04 03:00:13"
-"http://sacola.magazinevoce.com.br/sacola.magazinevoce.com.br","OpenPhish url list feed","2024-01-04 01:55:06"
-"http://https-m-login-facebook-profile-com.blogspot.com.br","Phishunt.io feed","2023-12-28 04:52:02"
