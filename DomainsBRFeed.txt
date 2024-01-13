@@ -1,3 +1,5 @@
+"https://s3-martech-sitehipercard.cloud.itau.com.br","Phishunt.io feed","2024-01-12 04:52:02"
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-12 04:52:02"
 "http://gigamail-terr-global.clicketcloud.com/#http://bb.com.br","Phishtank online valid phishing feed","2024-01-12 03:30:10"
 "https://gigamail-terr-global.clicketcloud.com/#http://bb.com.br","Phishtank online valid phishing feed","2024-01-12 03:30:10"
 "https://plata-terra.clicketcloud.com/#http://bb.com.br","Phishtank online valid phishing feed","2024-01-12 03:30:10"
