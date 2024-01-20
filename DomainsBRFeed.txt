@@ -1,3 +1,5 @@
+"www.webmailcontrolerssecuretybyacessosqueryserver.hotelempenedo.com.br","Cuckoo Sandbox analysis #607","2024-01-19 07:58:28"
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-19 04:52:02"
 "http://hfghgfh566.blogspot.com.br","PhishScore feed","2024-01-19 03:00:12"
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #384","2024-01-18 07:39:05"
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #261","2024-01-18 06:32:36"
@@ -53,5 +55,3 @@
 "http://app-mercado-livre.comercial.ws/?atendimento=1?http://bb.com.br","PhishScore feed","2024-01-14 03:00:14"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-13 04:52:03"
 "https://s3-martech-sitehipercard.cloud.itau.com.br","Phishunt.io feed","2024-01-13 04:52:02"
-"https://s3-martech-sitehipercard.cloud.itau.com.br","Phishunt.io feed","2024-01-12 04:52:02"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-12 04:52:02"
