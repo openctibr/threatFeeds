@@ -1,3 +1,5 @@
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-21 04:52:02"
+"transfer.adttemp.com.br","DigitalSide Malware report: MD5: 71a607a13b3a32bb32e8ec2ea9b43fd9","2024-01-20 11:54:41"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-20 04:52:02"
 "www.webmailcontrolerssecuretybyacessosqueryserver.hotelempenedo.com.br","Cuckoo Sandbox analysis #607","2024-01-19 07:58:28"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-19 04:52:02"
@@ -31,7 +33,3 @@
 "https://uqr.to/1os0z#https://bb.com.br","PhishScore feed","2024-01-16 03:00:14"
 "https://uqr.to/1os0n#https://bb.com.br","PhishScore feed","2024-01-16 03:00:14"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-15 04:52:02"
-"http://app-mercado-livre.comercial.ws/?atendimento=1?http://bb.com.br","Phishtank online valid phishing feed","2024-01-15 03:30:12"
-"http://app-mercado-livre.comercial.ws/?atendimento=1?http://mercadolivre.com.br","Phishtank online valid phishing feed","2024-01-15 03:30:12"
-"http://uqr.to/1os0n#https://bb.com.br","Phishtank online valid phishing feed","2024-01-15 03:30:09"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-14 04:52:02"
