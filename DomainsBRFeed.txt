@@ -41,5 +41,3 @@
 "transfer.adttemp.com.br","DigitalSide Malware report: MD5: 5b49aff6fd63d3b47a42af95b2ab6233","2024-01-27 03:22:07"
 "transfer.adttemp.com.br","DigitalSide Malware report: MD5: 6b1266f334d8f6c9986d1c94275a63fa","2024-01-26 06:24:37"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-26 04:52:02"
-"scainseto.com.br","Cuckoo Sandbox analysis #1744","2024-01-25 06:15:42"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-25 04:52:02"
