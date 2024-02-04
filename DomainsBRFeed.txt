@@ -22,6 +22,3 @@
 "https://atualizinformsend.dynv6.net/verificar/?hash=9448b47e46aedaf340bb9a36a81c51d6&cliente=HAHAHA@GMAIL.COM.BR","Phishtank online valid phishing feed","2024-01-30 03:30:08"
 "http://tinyurl.com/2zw5ymzz/?email=HAHAHA@GMAIL.COM.BR","Phishtank online valid phishing feed","2024-01-30 03:30:08"
 "transfer.adttemp.com.br","DigitalSide Malware report: MD5: 6e0c2cc2b89a9d054ebe5df5656c7113","2024-01-29 09:24:38"
-"http://linkpulse-global-connect-mail.clicketcloud.com/globalclik.php/index.php?http://bb.com.br","PhishScore feed","2024-01-28 03:00:06"
-"www.glamourstorepa.com.br","Cuckoo Sandbox analysis #2316","2024-01-27 07:42:15"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-01-27 04:52:02"
