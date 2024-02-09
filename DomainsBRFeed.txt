@@ -1,0 +1,2 @@
+"transfer.adttemp.com.br","DigitalSide Malware report: MD5: 7487e2be7384a10f23c704635ab76b23","2024-02-07 19:45:12"
+"uploaddeimagens.com.br","DigitalSide Malware report: MD5: a9f00cd72f53a3be0f8738f63d2bda1d","2024-02-07 05:28:06"
