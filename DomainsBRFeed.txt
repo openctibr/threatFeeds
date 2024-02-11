@@ -10,6 +10,7 @@
 "http://147.135.75.198/rjnoticias/?https://bradesco.com.br","Phishtank online valid phishing feed","2024-02-10 03:30:12"
 "http://env-7694573.clicketcloud.com/cliente.php/_647.0638142281489/index.php?https://itau.com.br","PhishScore feed","2024-02-10 03:00:06"
 "http://env-7694573.clicketcloud.com/cliente.php/_647.0638142281489/index.php?https://bb.com.br","PhishScore feed","2024-02-10 03:00:06"
+"uploaddeimagens.com.br","DigitalSide Malware report: MD5: fac7d5528968d2ab54d26ca319617c25","2024-02-09 13:21:13"
 "wassadadvogados.com.br","Cuckoo Sandbox analysis #5247","2024-02-09 07:41:07"
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #5117","2024-02-09 06:39:44"
 "transfer.adttemp.com.br","DigitalSide Malware report: MD5: 7487e2be7384a10f23c704635ab76b23","2024-02-07 19:45:12"
