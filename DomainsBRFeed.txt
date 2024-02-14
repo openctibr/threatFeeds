@@ -1,3 +1,7 @@
+"http://191.252.212.91/via/?https://bb.com.br","Phishtank online valid phishing feed","2024-02-14 03:30:09"
+"http://191.252.212.91/via/?https://bradesco.com.br","Phishtank online valid phishing feed","2024-02-14 03:30:08"
+"http://191.252.212.91/via/?https://bancodobrasil.com.br","Phishtank online valid phishing feed","2024-02-14 03:30:08"
+"uploaddeimagens.com.br","Cuckoo Sandbox analysis #5918","2024-02-13 06:26:03"
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #5534","2024-02-11 06:47:29"
 "dns.sstr.com.br","ThreatFox IOCs for 2024-02-10","2024-02-10 07:51:40"
 "https://env-02081.clicketcloud.com/?https://bb.com.br","Phishtank online valid phishing feed","2024-02-10 03:30:12"
