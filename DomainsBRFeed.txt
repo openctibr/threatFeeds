@@ -18,5 +18,3 @@
 "uploaddeimagens.com.br","DigitalSide Malware report: MD5: fac7d5528968d2ab54d26ca319617c25","2024-02-09 13:21:13"
 "wassadadvogados.com.br","Cuckoo Sandbox analysis #5247","2024-02-09 07:41:07"
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #5117","2024-02-09 06:39:44"
-"transfer.adttemp.com.br","DigitalSide Malware report: MD5: 7487e2be7384a10f23c704635ab76b23","2024-02-07 19:45:12"
-"uploaddeimagens.com.br","DigitalSide Malware report: MD5: a9f00cd72f53a3be0f8738f63d2bda1d","2024-02-07 05:28:06"
