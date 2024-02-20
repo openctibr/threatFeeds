@@ -1,3 +1,4 @@
+"http://janushenderson.agenciastatus.com.br","Phishtank online valid phishing feed","2024-02-20 03:30:11"
 "mail.wassadadvogados.com.br","Cuckoo Sandbox analysis #7041","2024-02-16 08:16:08"
 "scainseto.com.br","Cuckoo Sandbox analysis #6546","2024-02-15 06:37:22"
 "http://191.252.212.91/via/?https://bradesco.com.br","Phishtank online valid phishing feed","2024-02-14 03:30:08"
