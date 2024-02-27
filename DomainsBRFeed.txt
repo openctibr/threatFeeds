@@ -1,4 +1,2 @@
 "http://app.mercado-pago-auth.tecnologia.ws/?atendimento=1?https://mercadopago.com.br","Phishtank online valid phishing feed","2024-02-23 03:30:12"
 "http://app.mercado-pago-auth.tecnologia.ws/?atendimento=1?http://mercadopago.com.br","Phishtank online valid phishing feed","2024-02-23 03:30:12"
-"http://janushenderson.agenciastatus.com.br","Phishtank online valid phishing feed","2024-02-20 03:30:11"
-"ninhobaby.com.br","ThreatFox IOCs for 2024-02-19","2024-02-19 12:34:49"
