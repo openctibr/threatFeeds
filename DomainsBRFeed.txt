@@ -1,3 +1,1 @@
 "https://product.dkb.online.de.mabitcontabilidade.com.br","PhishScore feed","2024-02-29 03:00:07"
-"http://app.mercado-pago-auth.tecnologia.ws/?atendimento=1?https://mercadopago.com.br","Phishtank online valid phishing feed","2024-02-23 03:30:12"
-"http://app.mercado-pago-auth.tecnologia.ws/?atendimento=1?http://mercadopago.com.br","Phishtank online valid phishing feed","2024-02-23 03:30:12"
