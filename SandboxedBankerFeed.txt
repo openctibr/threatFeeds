@@ -27,7 +27,6 @@
 "db3ff3d130b7b4d2e616097586695feee16b7631","sha1"
 "dcd550058c9d0ddf7734ae149ca1f6d333e5873ab97af5453570d7d5e3deac55","sha256"
 "e770e35c2c22983216c6dcd5b440226b","md5"
-"http://edgedl.me.gvt1.com/edgedl/release2/update2/ad2euzfgyfswfjzdrw4y2cqdjkpa_1.3.36.212/GoogleUpdateSetup.exe","url"
 "http://edgedl.me.gvt1.com/edgedl/release2/update2/iqmnfy5ub2wrt6itb67uu4wcci_1.3.36.372/GoogleUpdateSetup.exe","url"
 "https://clients2.google.com/service/check2?crx3=true&appid=%7B430FD4D0-B729-4F61-AA34-91526481799D%7D&appversion=1.3.36.212&applang=&machine=1&version=1.3.36.212&userid=%7B44E0B715-C263-4CD3-9F8A-F4C33B762F12%7D&osversion=6.1&servicepack=Service%20Pack%201","url"
 "https://update.googleapis.com/service/update2?cup2key=13:2smu7rlYMbet91QCZnbWZE01BcEDv5v0-sM_hzbjAKk&cup2hreq=e13af3337e0e955fe1b6829ab8cfd86b454b8c9747ca461729e319534e62411d","url"
