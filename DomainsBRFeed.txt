@@ -1,3 +1,5 @@
+"uploaddeimagens.com.br","DigitalSide Malware report: MD5: a84c3ebcb836a293048f798e5bab7955","2024-03-06 16:48:51"
+"uploaddeimagens.com.br","DigitalSide Malware report: MD5: ddb09774c5a870c73cf0cf71e6d97d3e","2024-03-06 16:46:20"
 "sysbike.fragasoft.com.br","This list contains all domains - A list for administrators to prevent mining in networks feed","2024-03-05 03:50:20"
 "sysmeta.fragasoft.com.br","This list contains all domains - A list for administrators to prevent mining in networks feed","2024-03-05 03:50:20"
 "sysmoto2.fragasoft.com.br","This list contains all domains - A list for administrators to prevent mining in networks feed","2024-03-05 03:50:20"
@@ -9,4 +11,3 @@
 "arquivos.metaverso.fragasoft.com.br","This list contains all domains - A list for administrators to prevent mining in networks feed","2024-03-05 03:50:10"
 "http://itaforms.iamallama.com/9045347721-PERSONAL/EMKT_CURSO_TELA/904534GF54HFG/021DF2DF1G/?cliente=PERSONAL-mau@dom.com.br","Phishtank online valid phishing feed","2024-03-05 03:30:14"
 "http://itaforms.iamallama.com///9045347721-PERSONAL//EMKT_CURSO_TELA/904534GF54HFG/021DF2DF1G//?cliente=PERSONAL-dom@dom.com.br","Phishtank online valid phishing feed","2024-03-05 03:30:14"
-"https://product.dkb.online.de.mabitcontabilidade.com.br","PhishScore feed","2024-02-29 03:00:07"
