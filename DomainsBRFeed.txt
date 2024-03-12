@@ -1,3 +1,8 @@
+"smtps.uol.com.br","Cuckoo Sandbox analysis #1289","2024-03-11 06:14:33"
+"https://uenv-00.clicketcloud.com/?445466?https://bradesco.com.br","Phishtank online valid phishing feed","2024-03-11 03:30:20"
+"https://reii-cond.clicketcloud.com/cliente.php/_481.4437127155389/?https://bradesco.com.br","Phishtank online valid phishing feed","2024-03-11 03:30:20"
+"https://reii-cond.clicketcloud.com/cliente.php/_481.4437127155389/index.php?https://bradesco.com.br","Phishtank online valid phishing feed","2024-03-11 03:30:20"
+"http://b-a4qxna7jwq-rj.a.run.app64b4630e4d240d48394ccf62d91d3c8.sexshophot.com.br","Phishtank online valid phishing feed","2024-03-11 03:30:20"
 "https://reii-cond.clicketcloud.com/cliente.php/_481.4437127155389/index.php?https://bradesco.com.br","PhishScore feed","2024-03-09 03:00:05"
 "https://reii-cond.clicketcloud.com/cliente.php/_481.4437127155389/?https://bradesco.com.br","PhishScore feed","2024-03-09 03:00:05"
 "uploaddeimagens.com.br","Cuckoo Sandbox analysis #868","2024-03-08 08:05:06"
