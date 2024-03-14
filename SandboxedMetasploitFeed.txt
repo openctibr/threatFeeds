@@ -1,8 +1,0 @@
-"24.199.107.91","ip-dst"
-"46d6b9dc3a80c496f11288824838c9e6","md5"
-"97e47c6c2530b126a27cc34bceb214bdd78fecdf","sha1"
-"f2f9fe34de411872e89cab8f8576b3a3ad91dafcbeaa78f7d2eea0e9ab645518","sha256"
-"http://24.199.107.91/iloveblogs.bin","url"
-"46d6b9dc3a80c496f11288824838c9e6","filename|md5"
-"97e47c6c2530b126a27cc34bceb214bdd78fecdf","filename|sha1"
-"f2f9fe34de411872e89cab8f8576b3a3ad91dafcbeaa78f7d2eea0e9ab645518","filename|sha256"
