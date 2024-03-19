@@ -1,3 +1,4 @@
+"https://facebook-videos-funny.inpes.org.br","Phishunt.io feed","2024-03-18 04:52:01"
 "1oa8w.posesexyshop.com.br","Cuckoo Sandbox analysis #3098","2024-03-17 07:39:21"
 "https://tinyurl.com/4wkvjvxk/?hash=gmail@gmail.com.br","PhishScore feed","2024-03-17 03:00:06"
 "https://tinyurl.com/4wkvjvxk/?hash=abcx@abcx.com.br","PhishScore feed","2024-03-17 03:00:06"
@@ -7,5 +8,3 @@
 "https://segurobradescodental.com.br","Phishtank online valid phishing feed","2024-03-13 03:30:13"
 "http://www.decorama.arq.br","Phishtank online valid phishing feed","2024-03-13 03:30:13"
 "transfer.adttemp.com.br","DigitalSide Malware report: MD5: 5b8a32a8aa43b0abbba8e540066a35ef","2024-03-12 19:16:08"
-"uploaddeimagens.com.br","DigitalSide Malware report: MD5: 2ee7a5e1395b58223f5b50adeb6da813","2024-03-11 16:30:09"
-"smtps.uol.com.br","Cuckoo Sandbox analysis #1289","2024-03-11 06:14:33"
