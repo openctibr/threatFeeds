@@ -5,6 +5,3 @@
 "1oa8w.posesexyshop.com.br","Cuckoo Sandbox analysis #2595","2024-03-16 01:26:46"
 "http://ytinb.blogspot.com.br","PhishScore feed","2024-03-15 03:00:06"
 "https://tinyurl.com/5h68hvyy/index.php?email=29803.noreplay@avisos.netfli.com.br","PhishScore feed","2024-03-15 03:00:06"
-"https://segurobradescodental.com.br","Phishtank online valid phishing feed","2024-03-13 03:30:13"
-"http://www.decorama.arq.br","Phishtank online valid phishing feed","2024-03-13 03:30:13"
-"transfer.adttemp.com.br","DigitalSide Malware report: MD5: 5b8a32a8aa43b0abbba8e540066a35ef","2024-03-12 19:16:08"
