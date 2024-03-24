@@ -3,5 +3,3 @@
 "uploaddeimagens.com.br","DigitalSide Malware report: MD5: c7603f1da9d5ebb35076f285eb374ba6","2024-03-19 07:03:08"
 "https://facebook-videos-funny.inpes.org.br","Phishunt.io feed","2024-03-18 04:52:01"
 "1oa8w.posesexyshop.com.br","Cuckoo Sandbox analysis #3098","2024-03-17 07:39:21"
-"https://tinyurl.com/4wkvjvxk/?hash=gmail@gmail.com.br","PhishScore feed","2024-03-17 03:00:06"
-"https://tinyurl.com/4wkvjvxk/?hash=abcx@abcx.com.br","PhishScore feed","2024-03-17 03:00:06"
