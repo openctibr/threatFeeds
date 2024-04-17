@@ -1,3 +1,7 @@
+"https://qrco.de/bey9Hj?https://santander.com.br","PhishScore feed","2024-04-17 03:00:12"
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-16 04:52:08"
+"transfer.adttemp.com.br","DigitalSide Malware report: MD5: 2084d28241ad256007d75d930e28361a","2024-04-15 18:26:07"
+"transfer.adttemp.com.br","DigitalSide Malware report: MD5: 2a717ffc1021442bd1091fd2b9a53a10","2024-04-15 17:27:07"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-15 04:52:05"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-14 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-13 04:52:06"
@@ -5,4 +9,3 @@
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-12 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-11 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-10 04:52:05"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-09 04:52:06"
