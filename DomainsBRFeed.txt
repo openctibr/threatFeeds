@@ -1,3 +1,5 @@
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-23 04:52:09"
+"amazoniasaude.com.br","Tweetfeed feed","2024-04-23 04:49:05"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-22 04:52:05"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-21 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-20 04:52:06"
@@ -13,5 +15,3 @@
 "https://mail-servicos-terra-news1.ny-2.paas.massivegrid.net/contato1/?https://santander.com.br","PhishScore feed","2024-04-18 03:00:11"
 "https://qrco.de/bey9Hj?https://itau.com.br","Phishunt.io feed","2024-04-17 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-17 04:52:06"
-"https://qrco.de/bey9Hj?https://santander.com.br","PhishScore feed","2024-04-17 03:00:12"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-16 04:52:08"
