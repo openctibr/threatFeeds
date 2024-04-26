@@ -1,3 +1,4 @@
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-25 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-24 04:52:06"
 "uploaddeimagens.com.br","DigitalSide Malware report: MD5: 5e2a11db777866e69b93fd2b4c0bd8ed","2024-04-24 02:22:10"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-23 04:52:09"
@@ -7,6 +8,3 @@
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-20 04:52:06"
 "transfer.adttemp.com.br","DigitalSide Malware report: MD5: 86956574d8364f5e6062a23189458eb2","2024-04-19 16:27:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-19 04:52:05"
-"uploaddeimagens.com.br","DigitalSide Malware report: MD5: a98a1aa70a0f531cbaebf6ae092c3f8a","2024-04-18 16:50:10"
-"transfer.adttemp.com.br","DigitalSide Malware report: MD5: 2758e553732310d8b606fca67a1096c1","2024-04-18 16:37:52"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-18 04:52:06"
