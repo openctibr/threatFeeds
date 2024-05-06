@@ -1,3 +1,5 @@
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-05-05 04:52:06"
+"http://instagramprofiileurl.blogspot.com.br","Phishunt.io feed","2024-05-05 04:52:05"
 "http://instagramprofiileurl.blogspot.com.br","Phishunt.io feed","2024-05-04 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-05-04 04:52:06"
 "https://fleek.ipfs.io/ipfs/QmQRosVvB8jFizsRNhb4NtkGSJuKCWvEHcpY61BA1T9hEj/#m3u0v0@m3u0v0.com.br","PhishScore feed","2024-05-04 03:00:26"
@@ -15,5 +17,3 @@
 "https://robos-m.clicketcloud.com/#https://santander.com.br","PhishScore feed","2024-05-04 03:00:22"
 "https://robos-m.clicketcloud.com/?997223#https://santander.com.br","PhishScore feed","2024-05-04 03:00:22"
 "https://entdexx.clicketcloud.com/rioverde.php/5oe244o2elo3l3o563/?https://santander.com.br","PhishScore feed","2024-05-04 03:00:22"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-04-28 04:52:06"
-"http://instagramprofiileurl.blogspot.com.br","Phishunt.io feed","2024-04-28 04:52:05"
