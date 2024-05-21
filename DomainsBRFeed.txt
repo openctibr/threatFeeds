@@ -1,3 +1,5 @@
+"http://instagramprofiileurl.blogspot.com.br","Phishunt.io feed","2024-05-20 04:52:05"
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-05-20 04:52:05"
 "transfer.adttemp.com.br","DigitalSide Malware report: MD5: d3a80c7a3a80478b08cc17522a55bb44","2024-05-19 05:29:06"
 "http://instagramprofiileurl.blogspot.com.br","Phishunt.io feed","2024-05-19 04:52:05"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-05-19 04:52:05"
@@ -16,5 +18,3 @@
 "ingatecsus.com.br","DigitalSide Malware report: MD5: 3e56975127f436aa5e8a9b9c7af5eb23","2024-05-14 16:45:11"
 "http://instagramprofiileurl.blogspot.com.br","Phishunt.io feed","2024-05-14 04:52:06"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-05-14 04:52:06"
-"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-05-13 04:52:06"
-"http://instagramprofiileurl.blogspot.com.br","Phishunt.io feed","2024-05-13 04:52:05"
