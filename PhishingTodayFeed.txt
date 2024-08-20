@@ -17750,7 +17750,6 @@
 "http://upchase.ru/assets/js/clientebay/client/d210b876c21b80dfa2f00b6c0831e5ed/index2.html","url"
 "http://update-mynetflix-subscription.com/au_login","url"
 "http://update-page-594.duckdns.org/thre.html","url"
-"http://update.googleapis.com/service/update2","url"
 "http://update.itopvpn.com/dl/idr/v3/Pub/idrB5Event.exe","url"
 "http://update.p-e.kr/config.php","url"
 "http://updates.ultimate-fakkers.co.network/upd/LoaderAVX.exe","url"
