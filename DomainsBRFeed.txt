@@ -1,5 +1,0 @@
-"https://banco.itau.cl.ocabelodossonhos.com.br","Phishtank online valid phishing feed","2024-09-09 03:30:43"
-"http://c11553b.vps-kinghost.net/bonjour/?hash=gLzOS8CLd8t4CjE0Ub6m&amp;user=0V0@0V0.COM.BR","Phishtank online valid phishing feed","2024-09-09 03:30:41"
-"http://c11553b.vps-kinghost.net/bonjour/?hash%3DgLzOS8CLd8t4CjE0Ub6m&user=0V0@0V0.COM.BR","Phishtank online valid phishing feed","2024-09-09 03:30:41"
-"https://tinyurl.com/2a2c7vhl/?user=0V0@0V0.COM.BR","Phishtank online valid phishing feed","2024-09-09 03:30:41"
-"http://ofiice.smartwebinfo.com.br","Phishtank online valid phishing feed","2024-09-09 03:30:32"
