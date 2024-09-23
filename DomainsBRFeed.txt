@@ -1,4 +1,3 @@
-"https://yousendweb.net/webmail/?hash=a654f46d83044c70ca3a2b5ccc8bcd8a&cliente=m3u0v0@m3u0v0.com.br","Phishtank online valid phishing feed","2024-09-18 03:31:15"
 "https://tinyurl.com/bdeyv5zr/index.php?email=notifica.mail@itau-unibanco.com.br","Phishtank online valid phishing feed","2024-09-18 03:31:04"
 "https://tinyurl.com/bderhm2u/index.php?email=rosangela.cerano@itau-unibanco.com.br","Phishtank online valid phishing feed","2024-09-18 03:31:04"
 "https://tinyurl.com/bdeyv5zr/index.php?email=notifica.mail@itau-unibanco.com.br","PhishScore feed","2024-09-18 03:00:14"
