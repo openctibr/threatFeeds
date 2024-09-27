@@ -1,0 +1,3 @@
+"transfer.adttemp.com.br","Cuckoo Sandbox analysis #6533","2024-09-27 00:19:46"
+"transfer.adttemp.com.br","Cuckoo Sandbox analysis #6454","2024-09-26 06:43:15"
+"transfer.adttemp.com.br","Cuckoo Sandbox analysis #6439","2024-09-26 06:33:51"
