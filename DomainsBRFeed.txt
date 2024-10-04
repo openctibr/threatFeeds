@@ -5,6 +5,3 @@
 "http://tinyurl.com/305678MM?santander.com.br","Phishtank online valid phishing feed","2024-10-01 03:30:56"
 "https://tinyurl.com/305678MM?santander.com.br","Phishtank online valid phishing feed","2024-10-01 03:30:56"
 "https://tinyurl.com/mryav85b/index.php?email=rodrigo.hernandes-dias@itau-unibanco.com.br","PhishScore feed","2024-09-29 03:00:12"
-"transfer.adttemp.com.br","Cuckoo Sandbox analysis #6533","2024-09-27 00:19:46"
-"transfer.adttemp.com.br","Cuckoo Sandbox analysis #6454","2024-09-26 06:43:15"
-"transfer.adttemp.com.br","Cuckoo Sandbox analysis #6439","2024-09-26 06:33:51"
