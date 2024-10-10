@@ -1,3 +1,6 @@
+"http://brxr.donhoo.com/acesso/?cliente=m3u0v0@m3u0v0.com.br","Phishtank online valid phishing feed","2024-10-10 03:30:20"
+"https://brxr.donhoo.com/acesso/?cliente=m3u0v0@m3u0v0.com.br","Phishtank online valid phishing feed","2024-10-10 03:30:20"
+"http://brxr.donhoo.com/acesso/?cliente=m3u0v0@m3u0v0.com.br","PhishScore feed","2024-10-10 03:04:31"
 "http://rwvr.voyez.ca/cadastramento/?cliente=bradesco@santander.com.br","Phishtank online valid phishing feed","2024-10-07 03:30:39"
 "https://rwvr.voyez.ca/cadastramento/?cliente=bradesco@santander.com.br","Phishtank online valid phishing feed","2024-10-07 03:30:39"
 "scaleyou.com.br","DigitalSide Malware report: MD5: dbf8d8ef015846d4078466a7c1d3f41c","2024-10-06 22:29:01"
@@ -5,4 +8,3 @@
 "https://rwvr.voyez.ca/cadastramento/?cliente=bradesco@santander.com.br","PhishScore feed","2024-10-06 03:04:36"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #845","2024-10-05 07:33:17"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #705","2024-10-05 06:23:17"
-"https://tinyurl.com/mr4a3faw/index.php?email=gabrielle.ferrari@itau-unibanco.com.br","Phishtank online valid phishing feed","2024-10-03 03:30:20"
