@@ -2,6 +2,3 @@
 "http://carlinicerimonial.com.br","Phishtank online valid phishing feed","2024-10-12 03:30:26"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #2991","2024-10-12 00:38:59"
 "https://brxr.donhoo.com/acesso/?cliente=m3u0v0@m3u0v0.com.br","PhishScore feed","2024-10-11 03:04:32"
-"http://brxr.donhoo.com/acesso/?cliente=m3u0v0@m3u0v0.com.br","Phishtank online valid phishing feed","2024-10-10 03:30:20"
-"https://brxr.donhoo.com/acesso/?cliente=m3u0v0@m3u0v0.com.br","Phishtank online valid phishing feed","2024-10-10 03:30:20"
-"http://brxr.donhoo.com/acesso/?cliente=m3u0v0@m3u0v0.com.br","PhishScore feed","2024-10-10 03:04:31"
