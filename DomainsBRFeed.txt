@@ -2,4 +2,3 @@
 "www.hotelgranada.ddnsgratis.com.br","Cuckoo Sandbox analysis #6094","2024-10-20 00:13:24"
 "www.hotelgranada.ddnsgratis.com.br","Cuckoo Sandbox analysis #5985","2024-10-20 00:08:30"
 "meterpreter.ddnsgratis.com.br","Cuckoo Sandbox analysis #5500","2024-10-18 08:30:23"
-"www.bclick.com.br","DigitalSide Malware report: MD5: 11bc606269a161555431bacf37f7c1e4","2024-10-18 01:17:08"
