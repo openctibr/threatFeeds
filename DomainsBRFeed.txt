@@ -5,4 +5,3 @@
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #4243","2024-11-06 06:44:17"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #4182","2024-11-06 06:12:48"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #3910","2024-11-06 00:25:36"
-"cdn.orionascension.com.br","Cuckoo Sandbox analysis #2836","2024-11-02 06:55:50"
