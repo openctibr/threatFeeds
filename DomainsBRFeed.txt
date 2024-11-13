@@ -1,3 +1,4 @@
+"https://locawebvalidacaoapp-bvbwbramdshzbfat.canadacentral-01.azurewebsites.net/pt-PT/webmail/app1/BR-PTb/localweb/?bradesco.com.br","PhishScore feed","2024-11-13 03:00:11"
 "http://reply-move-l-terraa.comercial.ws/terra23/adm/?santander.com.br","Phishtank online valid phishing feed","2024-11-12 03:32:32"
 "https://taxaspagamentodoscorreios.com/index.php?vv=5?itau.com.br","Phishtank online valid phishing feed","2024-11-12 03:32:13"
 "http://taxaspagamentodoscorreios.com?itau.com.br","Phishtank online valid phishing feed","2024-11-12 03:32:13"
@@ -16,4 +17,3 @@
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #4394","2024-11-07 00:33:51"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #4243","2024-11-06 06:44:17"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #4182","2024-11-06 06:12:48"
-"transfer.adttemp.com.br","Cuckoo Sandbox analysis #3910","2024-11-06 00:25:36"
