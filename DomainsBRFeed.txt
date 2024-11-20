@@ -1,3 +1,4 @@
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-11-19 04:52:11"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-11-18 04:52:07"
 "http://metamaskinc.blogspot.com.br","Phishunt.io feed","2024-11-18 04:52:07"
 "http://metamaskinc.blogspot.com.br","Phishunt.io feed","2024-11-17 04:52:08"
@@ -14,4 +15,3 @@
 "https://colnbase.dudunafesta.com.br","Phishunt.io feed","2024-11-14 04:52:06"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #7403","2024-11-14 00:39:05"
 "transfer.adttemp.com.br","Cuckoo Sandbox analysis #7249","2024-11-14 00:13:23"
-"https://locawebvalidacaoapp-bvbwbramdshzbfat.canadacentral-01.azurewebsites.net/pt-PT/webmail/app1/BR-PTb/localweb/?bradesco.com.br","PhishScore feed","2024-11-13 03:00:11"
