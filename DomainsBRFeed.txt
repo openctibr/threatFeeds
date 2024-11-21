@@ -1,3 +1,7 @@
+"cestasgabrasil.com.br","Cuckoo Sandbox analysis #938","2024-11-20 06:28:58"
+"www.cestasgabrasil.com.br","Cuckoo Sandbox analysis #938","2024-11-20 06:28:58"
+"http://metamaskinc.blogspot.com.br","Phishunt.io feed","2024-11-20 04:52:07"
+"http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-11-20 04:52:07"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-11-19 04:52:11"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-11-18 04:52:07"
 "http://metamaskinc.blogspot.com.br","Phishunt.io feed","2024-11-18 04:52:07"
@@ -13,5 +17,3 @@
 "http://metamaskinc.blogspot.com.br","Phishunt.io feed","2024-11-14 04:52:08"
 "http://metamask-wallett.blogspot.com.br","Phishunt.io feed","2024-11-14 04:52:08"
 "https://colnbase.dudunafesta.com.br","Phishunt.io feed","2024-11-14 04:52:06"
-"transfer.adttemp.com.br","Cuckoo Sandbox analysis #7403","2024-11-14 00:39:05"
-"transfer.adttemp.com.br","Cuckoo Sandbox analysis #7249","2024-11-14 00:13:23"
