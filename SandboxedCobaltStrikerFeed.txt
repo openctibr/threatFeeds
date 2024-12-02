@@ -1,6 +1,3 @@
 "1044b941d353acd38bf745a79d1561eaaec4fe3d56b46aa7ff83f2f1f9b6f868","sha256"
 "3cf215bbc2fd9ab86c7d0dc77312e5f6","md5"
 "9fcd5d5bbd94f868674e192c60c6a2d28dea0362","sha1"
-"3cf215bbc2fd9ab86c7d0dc77312e5f6","filename|md5"
-"9fcd5d5bbd94f868674e192c60c6a2d28dea0362","filename|sha1"
-"1044b941d353acd38bf745a79d1561eaaec4fe3d56b46aa7ff83f2f1f9b6f868","filename|sha256"
