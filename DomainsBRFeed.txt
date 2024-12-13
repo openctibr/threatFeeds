@@ -1,3 +1,5 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-12 04:52:05"
+"https://www.amazon.com.br","Phishunt.io feed","2024-12-12 04:52:04"
 "http://vmi2240213.contaboserver.net/nfeletronica/?hash=0v0@0v0.com.br","PhishScore feed","2024-12-12 03:04:27"
 "https://vmi2240213.contaboserver.net/nfeletronica/?hash=0v0@0v0.com.br","PhishScore feed","2024-12-12 03:04:27"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-11 04:52:05"
@@ -15,6 +17,3 @@
 "https://twetter.com.br","Phishunt.io feed","2024-12-06 04:52:08"
 "http://metamasksigins.blogspot.com.br","Phishunt.io feed","2024-12-06 04:52:07"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-06 04:52:07"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-05 04:52:08"
-"https://twetter.com.br","Phishunt.io feed","2024-12-05 04:52:08"
-"http://metamasksigins.blogspot.com.br","Phishunt.io feed","2024-12-05 04:52:07"
