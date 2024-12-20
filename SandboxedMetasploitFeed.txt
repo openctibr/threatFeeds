@@ -1,0 +1,7 @@
+"7772b129b1d42a8c966fc57f6f976ada322ebab5","sha1"
+"8cd46b6f9dc5fd70a67d20e75d9a86fb1a42d6fb96a92caac904055b4aa6a7e7","sha256"
+"a2ccfe8bf9e3bcc3caf4001ad27bc8bb","md5"
+"https://clients2.google.com/service/check2?crx3=true&appid=%7B430FD4D0-B729-4F61-AA34-91526481799D%7D&appversion=1.3.36.372&applang=&machine=1&version=1.3.36.372&userid=%7BAA6F2932-1E57-4BC0-A985-5AF742250349%7D&osversion=6.1&servicepack=Service%20Pack%201","url"
+"a2ccfe8bf9e3bcc3caf4001ad27bc8bb","filename|md5"
+"7772b129b1d42a8c966fc57f6f976ada322ebab5","filename|sha1"
+"8cd46b6f9dc5fd70a67d20e75d9a86fb1a42d6fb96a92caac904055b4aa6a7e7","filename|sha256"

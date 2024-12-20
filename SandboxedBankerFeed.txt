@@ -1,0 +1,7 @@
+"2b986178da0c3d081f99ac8fb4a5952c","md5"
+"41b53598bfc1bdb21e023b11a49bdab967203681","sha1"
+"a20bdb925e1f673b30da71c943e9dd460ee68e23b44fe00c8a1b09609804f105","sha256"
+"https://clients2.google.com/service/check2?crx3=true&appid=%7B430FD4D0-B729-4F61-AA34-91526481799D%7D&appversion=1.3.36.372&applang=&machine=1&version=1.3.36.372&userid=&osversion=6.1&servicepack=Service%20Pack%201","url"
+"2b986178da0c3d081f99ac8fb4a5952c","filename|md5"
+"41b53598bfc1bdb21e023b11a49bdab967203681","filename|sha1"
+"a20bdb925e1f673b30da71c943e9dd460ee68e23b44fe00c8a1b09609804f105","filename|sha256"
