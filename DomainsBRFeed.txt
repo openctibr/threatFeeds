@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-25 04:52:04"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-24 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-23 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-22 04:52:05"
@@ -9,4 +10,3 @@
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-20 04:52:05"
 "http://5fhfrg3f3f2f3.blogspot.com.br","PhishScore feed","2024-12-20 03:00:14"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-19 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2024-12-18 04:52:05"
