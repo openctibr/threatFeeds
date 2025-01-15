@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-14 04:52:05"
 "www.mqs.com.br","Cuckoo Sandbox analysis #1909","2025-01-13 06:59:11"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-13 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-12 04:52:09"
@@ -6,4 +7,3 @@
 "www.vascocorretora.com.br","Cuckoo Sandbox analysis #48","2025-01-10 00:07:35"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-09 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-08 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-07 04:52:05"
