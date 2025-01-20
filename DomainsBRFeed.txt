@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-19 04:52:07"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-18 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-17 04:52:05"
 "www.volareconsultoria.com.br","Cuckoo Sandbox analysis #2867","2025-01-16 06:45:48"
@@ -7,4 +8,3 @@
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-14 04:52:05"
 "www.mqs.com.br","Cuckoo Sandbox analysis #1909","2025-01-13 06:59:11"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-13 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-12 04:52:09"
