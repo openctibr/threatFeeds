@@ -1,3 +1,5 @@
+"mocdrol.com.br","Cuckoo Sandbox analysis #10","2025-01-28 06:19:23"
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-28 04:52:06"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-27 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-26 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-25 04:52:06"
@@ -9,7 +11,3 @@
 "https://ads.mlcrosoft.com.ciree.com.br","Phishunt.io feed","2025-01-22 04:52:05"
 "vbccorretoradeseguros.com.br","Tweetfeed feed","2025-01-22 04:49:04"
 "http://vbccorretoradeseguros.com.br","Tweetfeed feed","2025-01-22 04:49:04"
-"uploaddeimagens.com.br","Cuckoo Sandbox analysis #643","2025-01-21 08:45:07"
-"uploaddeimagens.com.br","Cuckoo Sandbox analysis #459","2025-01-21 07:08:30"
-"https://ads.mlcrosoft.com.ciree.com.br","Phishunt.io feed","2025-01-21 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-21 04:52:05"
