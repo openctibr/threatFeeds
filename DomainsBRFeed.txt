@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-06 04:52:05"
 "https://seb.ytonihon.com.br","Phishtank online valid phishing feed","2025-02-06 03:30:11"
 "https://resgateoscashbacks.dynv6.net/ItauPontos/cadrastro.php?itau.com.br","Phishtank online valid phishing feed","2025-02-06 03:30:10"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-05 04:52:06"
@@ -11,4 +12,3 @@
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-02 04:52:06"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-01 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-31 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-01-30 04:52:06"
