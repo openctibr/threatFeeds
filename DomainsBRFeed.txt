@@ -1,3 +1,5 @@
+"mk.babyisis.com.br","Cuckoo Sandbox analysis #15","2025-02-14 06:20:00"
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-14 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-13 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-12 04:52:06"
 "http://tinyurl.com/2coqucf5/?server=M3U0V0@M3U0V0.COM.BR","Phishtank online valid phishing feed","2025-02-12 03:30:14"
@@ -11,4 +13,3 @@
 "https://resgateoscashbacks.dynv6.net/ItauPontos/cadrastro.php?itau.com.br","PhishScore feed","2025-02-10 03:00:08"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-09 04:52:06"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-08 04:52:06"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-07 04:52:05"
