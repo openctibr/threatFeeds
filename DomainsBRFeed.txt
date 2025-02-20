@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-19 04:52:05"
 "https://tinyurl.com/2d7f9e6s/?server=GMAIL@GMAIL.COM.BR","PhishScore feed","2025-02-19 03:00:08"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-18 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-17 04:52:05"
@@ -6,4 +7,3 @@
 "mk.babyisis.com.br","Cuckoo Sandbox analysis #15","2025-02-14 06:20:00"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-14 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-13 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-12 04:52:06"
