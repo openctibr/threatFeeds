@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-24 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-23 04:52:06"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-22 04:52:05"
 "https://angell-produtos-para-manicure.lojaintegrada.com.br","Phishtank online valid phishing feed","2025-02-22 03:30:24"
@@ -20,4 +21,3 @@
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-19 04:52:05"
 "https://tinyurl.com/2d7f9e6s/?server=GMAIL@GMAIL.COM.BR","PhishScore feed","2025-02-19 03:00:08"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-18 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-17 04:52:05"
