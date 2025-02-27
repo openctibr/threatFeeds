@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-26 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-25 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-24 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-23 04:52:06"
@@ -19,4 +20,3 @@
 "productweb1000.com.br","Tweetfeed feed","2025-02-20 04:49:04"
 "https://www.pbxcloud.info.falesempremais.com.br","Tweetfeed feed","2025-02-20 04:49:04"
 "pbxcloud.info.falesempremais.com.br","Tweetfeed feed","2025-02-20 04:49:04"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-02-19 04:52:05"
