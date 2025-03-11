@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-10 04:52:05"
 "https://netcore.homeunix.net/uol.com/erro_pass.php?user=gmail@uol.com.br","PhishScore feed","2025-03-10 03:00:07"
 "https://linkhub.scrapper-site.net/index.php?user=0v0@0v0.com.br","PhishScore feed","2025-03-10 03:00:07"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-09 04:52:05"
@@ -10,6 +11,3 @@
 "http://skabzp13.blogspot.com.br","PhishScore feed","2025-03-05 03:00:08"
 "http://paypalloginin-usa.blogspot.com.br","Phishunt.io feed","2025-03-04 04:52:06"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-04 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-03 04:52:05"
-"http://paypalloginin-usa.blogspot.com.br","Phishunt.io feed","2025-03-03 04:52:05"
-"active-mail-jappan-network.lanipires.com.br","Tweetfeed feed","2025-03-03 04:49:04"
