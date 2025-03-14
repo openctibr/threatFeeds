@@ -1,3 +1,6 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-13 04:52:05"
+"bradescoseguros.planodesaude.app.br","Tweetfeed feed","2025-03-13 04:49:04"
+"https://bradescoseguros.planodesaude.app.br","Tweetfeed feed","2025-03-13 04:49:04"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-12 04:52:06"
 "https://portaldeacesso.validacredenciais.my/index.php?user=0v0@0v0.com.br","Phishtank online valid phishing feed","2025-03-12 03:30:33"
 "http://netcore.homeunix.net/uol.com/erro_pass.php?user=gmail@uol.com.br","Phishtank online valid phishing feed","2025-03-12 03:30:28"
@@ -12,4 +15,3 @@
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-08 04:52:05"
 "http://worldwide-package-dhl.destravecredito.com.br","PhishScore feed","2025-03-08 03:00:14"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-07 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-06 04:52:05"
