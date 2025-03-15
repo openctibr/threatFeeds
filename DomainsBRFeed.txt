@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-14 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-13 04:52:05"
 "bradescoseguros.planodesaude.app.br","Tweetfeed feed","2025-03-13 04:49:04"
 "https://bradescoseguros.planodesaude.app.br","Tweetfeed feed","2025-03-13 04:49:04"
@@ -13,5 +14,3 @@
 "https://linkhub.scrapper-site.net/index.php?user=0v0@0v0.com.br","PhishScore feed","2025-03-10 03:00:07"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-09 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-08 04:52:05"
-"http://worldwide-package-dhl.destravecredito.com.br","PhishScore feed","2025-03-08 03:00:14"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-07 04:52:05"
