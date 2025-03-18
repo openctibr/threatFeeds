@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-17 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-16 04:52:05"
 "https://quicknet.from-ny.net/index.php?user=0v0@0v0.com.br","Phishtank online valid phishing feed","2025-03-16 03:30:16"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-15 04:52:06"
@@ -12,4 +13,3 @@
 "https://linkhub.scrapper-site.net/index.php?user=0v0@0v0.com.br","Phishtank online valid phishing feed","2025-03-12 03:30:28"
 "http://linkhub.scrapper-site.net/index.php?user=0v0@0v0.com.br","Phishtank online valid phishing feed","2025-03-12 03:30:28"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-11 04:52:05"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-10 04:52:05"
