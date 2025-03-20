@@ -1,3 +1,4 @@
+"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-19 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-18 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-17 04:52:05"
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-16 04:52:05"
@@ -7,4 +8,3 @@
 "https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-13 04:52:05"
 "bradescoseguros.planodesaude.app.br","Tweetfeed feed","2025-03-13 04:49:04"
 "https://bradescoseguros.planodesaude.app.br","Tweetfeed feed","2025-03-13 04:49:04"
-"https://ads-microsoft.lubrine.com.br","Phishunt.io feed","2025-03-12 04:52:06"
