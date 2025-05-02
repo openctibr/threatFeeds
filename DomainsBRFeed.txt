@@ -2,4 +2,3 @@
 "www.economia.uol.com.br","Cuckoo Sandbox analysis #916","2025-04-26 09:59:12"
 "www.economia.uol.com.br","Cuckoo Sandbox analysis #570","2025-04-26 06:53:46"
 "www.economia.uol.com.br","Cuckoo Sandbox analysis #606","2025-04-26 06:53:12"
-"humansa.com.br","Tweetfeed feed","2025-04-24 04:49:04"
