@@ -1,3 +1,5 @@
+"localbusineess.com.br","Cuckoo Sandbox analysis #1702","2025-05-02 08:00:07"
+"localbusineess.com.br","Cuckoo Sandbox analysis #1678","2025-05-02 07:44:00"
 "www.economia.uol.com.br","Cuckoo Sandbox analysis #433","2025-04-29 09:55:28"
 "www.economia.uol.com.br","Cuckoo Sandbox analysis #916","2025-04-26 09:59:12"
 "www.economia.uol.com.br","Cuckoo Sandbox analysis #570","2025-04-26 06:53:46"
