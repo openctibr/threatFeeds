@@ -1,3 +1,4 @@
+"lbaeventos.com.br","Tweetfeed feed","2025-05-09 04:49:05"
 "www3.servicos.ms.gov.br","Cuckoo Sandbox analysis #953","2025-05-06 09:29:14"
 "guilhermegazzola.com.br","Cuckoo Sandbox analysis #858","2025-05-06 08:02:07"
 "http://netflixb00027029.blogspot.com.br","Phishunt.io feed","2025-05-05 04:52:07"
@@ -5,5 +6,3 @@
 "https://wxzvk.com/Terra?hash=looool@terra.com.br4845685ZFTH819IT45566546-45645646ZFTH819IT54658looool@terra.com.br","Phishtank online valid phishing feed","2025-05-05 03:30:13"
 "http://2viacontavencida.com/Terra?hash=loool%40terra.com.br4845685ZFTH819IT45566546-45645646ZFTH819IT54658looool%40terra.com.br","Phishtank online valid phishing feed","2025-05-05 03:30:13"
 "https://2viacontavencida.com/Terra?hash=loool%40terra.com.br4845685ZFTH819IT45566546-45645646ZFTH819IT54658looool%40terra.com.br","Phishtank online valid phishing feed","2025-05-05 03:30:13"
-"localbusineess.com.br","Cuckoo Sandbox analysis #1702","2025-05-02 08:00:07"
-"localbusineess.com.br","Cuckoo Sandbox analysis #1678","2025-05-02 07:44:00"
