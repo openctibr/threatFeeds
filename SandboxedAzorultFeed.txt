@@ -1,8 +1,0 @@
-"5a52177138b75bd3a7db08f985c9cadf","filename|md5"
-"a6c250c3776fcca55835867e1aaddd4dfdd21bcb","filename|sha1"
-"2b35b0e03cfaa1968b4f735d2882fc646f0c0e77914f8892ebcab89d9fa228cd","filename|sha256"
-"2b35b0e03cfaa1968b4f735d2882fc646f0c0e77914f8892ebcab89d9fa228cd","sha256"
-"5a52177138b75bd3a7db08f985c9cadf","md5"
-"a6c250c3776fcca55835867e1aaddd4dfdd21bcb","sha1"
-"https://clients2.google.com/service/check2?crx3=true&appid=%7B430FD4D0-B729-4F61-AA34-91526481799D%7D&appversion=1.3.36.372&applang=&machine=1&version=1.3.36.372&userid=&osversion=6.1&servicepack=Service%20Pack%201","url"
-"https://update.googleapis.com/service/update2?cup2key=13:NGfCv8OB9bDWssEBm72I8iXT3htgJ16fVT5FGa1rODo&cup2hreq=ab5d3a784c6623267210fba4d0f3ac93949fcc78ecd65df4a93c5e3b23201528","url"
