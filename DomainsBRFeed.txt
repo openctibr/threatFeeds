@@ -1,2 +1,1 @@
 "http://slcondominio.com.br","Phishtank online valid phishing feed","2025-06-14 03:30:10"
-"https://frd-11064.bubbleapps.io/#documentoscambio@itau-unibanco.com.br","Phishtank online valid phishing feed","2025-06-13 03:30:12"
