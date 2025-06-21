@@ -1,2 +1,1 @@
 "novodominio01.com.br","Cuckoo Sandbox analysis #1352","2025-06-20 03:15:11"
-"http://slcondominio.com.br","Phishtank online valid phishing feed","2025-06-14 03:30:10"
