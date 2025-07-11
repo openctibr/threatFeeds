@@ -1,0 +1,5 @@
+"216.58.209.174","ip-dst"
+"216.58.210.131","ip-dst"
+"chambriard.com.br","domain|ip"
+"https://clients2.google.com/service/check2?crx3=true&appid=%7B430FD4D0-B729-4F61-AA34-91526481799D%7D&appversion=1.3.36.372&applang=&machine=1&version=1.3.36.372&userid=%7BAB80F18B-FDD5-48DF-AC58-621A22EE272D%7D&osversion=6.1&servicepack=Service%20Pack%201","url"
+"https://update.googleapis.com/service/update2?cup2key=13:cC8vuLeGc72tBWceoVeXQiUiAL1-r6Z6xmmJQ7VtuyI&cup2hreq=255a35422ec6653875316b065fad11a1f6a7ef8269e968fba22e3ce6d72aa3a0","url"
