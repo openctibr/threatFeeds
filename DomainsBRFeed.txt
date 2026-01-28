@@ -1,2 +1,1 @@
 "http://webmail.ip-45-56-71-250.cloudezapp.io/vendor/webaccs2026/index.php?mailto=tony@bol.com.br","Phishtank online valid phishing feed","2026-01-25 03:30:11"
-"dataseranalytics.com.br","Tweetfeed feed","2026-01-20 04:49:05"
