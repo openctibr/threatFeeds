@@ -1,3 +1,6 @@
+"portal.ufrrj.br","Maltrail IOC for 2026-06-08","2026-06-08 08:08:04"
+"inscricoes.ufrrj.br","Maltrail IOC for 2026-06-08","2026-06-08 08:06:02"
+"ctur.ufrrj.br","Maltrail IOC for 2026-06-08","2026-06-08 08:04:15"
 "monalisadebatom.com.br","ThreatFox IOCs for 2026-06-06","2026-06-06 19:29:15"
 "whm.vinhetadj.com.br","Maltrail IOC for 2026-06-05","2026-06-05 17:01:50"
 "webdisk.vinhetadj.com.br","Maltrail IOC for 2026-06-05","2026-06-05 17:01:49"
@@ -12,4 +15,3 @@
 "dralexandrecoura.com.br","Maltrail IOC for 2026-06-04","2026-06-04 12:00:10"
 "mautic.findes.com.br","Maltrail IOC for 2026-06-03","2026-06-03 11:01:18"
 "flechou.com.br","Maltrail IOC for 2026-06-03","2026-06-03 11:00:53"
-"https://seuacesso-empresarial.vidaclear.com.br","Phishtank online valid phishing feed","2026-06-02 03:30:11"
