@@ -18,5 +18,3 @@
 "autodiscover.vinhetadj.com.br","Maltrail IOC for 2026-06-05","2026-06-05 17:00:07"
 "medicosacimadomercado.com.br","ThreatFox IOCs for 2026-06-05","2026-06-05 12:39:53"
 "dralexandrecoura.com.br","Maltrail IOC for 2026-06-04","2026-06-04 12:00:10"
-"mautic.findes.com.br","Maltrail IOC for 2026-06-03","2026-06-03 11:01:18"
-"flechou.com.br","Maltrail IOC for 2026-06-03","2026-06-03 11:00:53"
