@@ -1,3 +1,4 @@
+"synergyconsulting.com.br","Maltrail IOC for 2026-06-16","2026-06-16 10:00:04"
 "parquedasreligioes.com.br","ThreatFox IOCs for 2026-06-12","2026-06-12 05:35:39"
 "fnord.com.br","ThreatFox IOCs for 2026-06-12","2026-06-12 05:35:37"
 "vjequipamentospr.com.br","ThreatFox IOCs for 2026-06-12","2026-06-12 04:59:04"
