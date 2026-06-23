@@ -1,3 +1,5 @@
+"colegioconexao.com.br","Tweetfeed feed","2026-06-22 04:49:02"
+"https://colegioconexao.com.br","Tweetfeed feed","2026-06-22 04:49:02"
 "gergean.com.br","Maltrail IOC for 2026-06-18","2026-06-18 16:00:59"
 "autotintas.com.br","Maltrail IOC for 2026-06-18","2026-06-18 16:00:25"
 "abilitaseguros.com.br","ThreatFox IOCs for 2026-06-17","2026-06-17 02:45:27"
