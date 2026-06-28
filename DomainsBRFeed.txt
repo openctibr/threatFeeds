@@ -1,3 +1,7 @@
+"http://iniciamazon.com.br","Phishunt.io feed","2026-06-27 04:52:03"
+"https://itauconsorcios.net.br","Phishunt.io feed","2026-06-27 04:52:03"
+"colegiotatil.com.br","ThreatFox IOCs for 2026-06-26","2026-06-26 07:45:54"
+"colheito.com.br","ThreatFox IOCs for 2026-06-26","2026-06-26 07:45:54"
 "http://iniciamazon.com.br","Phishunt.io feed","2026-06-26 04:52:03"
 "https://itauconsorcios.net.br","Phishunt.io feed","2026-06-26 04:52:03"
 "http://iniciamazon.com.br","Phishunt.io feed","2026-06-25 04:52:03"
