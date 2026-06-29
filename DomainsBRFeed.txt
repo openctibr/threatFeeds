@@ -1,3 +1,8 @@
+"mobilerelatorio.defencesistemas.com.br","Maltrail IOC for 2026-06-28","2026-06-28 18:23:35"
+"http://iniciamazon.com.br","Phishunt.io feed","2026-06-28 04:52:02"
+"https://itauconsorcios.net.br","Phishunt.io feed","2026-06-28 04:52:02"
+"proasp.com.br","Tweetfeed feed","2026-06-28 04:49:02"
+"ezbadvogados.com.br","ThreatFox IOCs for 2026-06-27","2026-06-27 05:48:25"
 "http://iniciamazon.com.br","Phishunt.io feed","2026-06-27 04:52:03"
 "https://itauconsorcios.net.br","Phishunt.io feed","2026-06-27 04:52:03"
 "colegiotatil.com.br","ThreatFox IOCs for 2026-06-26","2026-06-26 07:45:54"
