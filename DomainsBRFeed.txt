@@ -1,3 +1,5 @@
+"http://iniciamazon.com.br","Phishunt.io feed","2026-06-30 04:52:02"
+"https://itauconsorcios.net.br","Phishunt.io feed","2026-06-30 04:52:02"
 "potenciabh.com.br","Maltrail IOC for 2026-06-29","2026-06-29 12:00:58"
 "mail.potenciabh.com.br","Maltrail IOC for 2026-06-29","2026-06-29 12:00:54"
 "mail.fmagadv.com.br","Maltrail IOC for 2026-06-29","2026-06-29 12:00:52"
