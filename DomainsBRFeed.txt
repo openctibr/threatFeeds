@@ -1,3 +1,5 @@
+"http://iniciamazon.com.br","Phishunt.io feed","2026-07-04 04:52:02"
+"https://itauconsorcios.net.br","Phishunt.io feed","2026-07-04 04:52:02"
 "http://iniciamazon.com.br","Phishunt.io feed","2026-07-03 04:52:02"
 "https://itauconsorcios.net.br","Phishunt.io feed","2026-07-03 04:52:02"
 "villapescados.com.br","ThreatFox IOCs for 2026-07-02","2026-07-02 08:44:18"
@@ -29,6 +31,3 @@
 "http://iniciamazon.com.br","Phishunt.io feed","2026-06-28 04:52:02"
 "https://itauconsorcios.net.br","Phishunt.io feed","2026-06-28 04:52:02"
 "proasp.com.br","Tweetfeed feed","2026-06-28 04:49:02"
-"ezbadvogados.com.br","ThreatFox IOCs for 2026-06-27","2026-06-27 05:48:25"
-"http://iniciamazon.com.br","Phishunt.io feed","2026-06-27 04:52:03"
-"https://itauconsorcios.net.br","Phishunt.io feed","2026-06-27 04:52:03"
