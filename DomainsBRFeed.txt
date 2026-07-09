@@ -1,3 +1,7 @@
+"https://absoluteinvestimentos.com.br","URLHaus Malware URLs feed","2026-07-09 03:55:23"
+"https://absoluteinvestimentos.com.br","URLHaus Malware URLs feed","2026-07-08 12:58:13"
+"http://iniciamazon.com.br","Phishunt.io feed","2026-07-08 04:52:02"
+"http://netflixfeitoaqui.com.br","Phishunt.io feed","2026-07-08 04:52:02"
 "http://iniciamazon.com.br","Phishunt.io feed","2026-07-07 04:52:01"
 "http://netflixfeitoaqui.com.br","Phishunt.io feed","2026-07-07 04:52:01"
 "tecnoproj.eng.br","Tweetfeed feed","2026-07-07 04:49:02"
@@ -53,5 +57,3 @@
 "bet9ja.com.br","Maltrail IOC for 2026-07-02","2026-07-02 07:00:38"
 "http://iniciamazon.com.br","Phishunt.io feed","2026-07-02 04:52:03"
 "https://itauconsorcios.net.br","Phishunt.io feed","2026-07-02 04:52:03"
-"http://iniciamazon.com.br","Phishunt.io feed","2026-07-01 04:52:03"
-"https://itauconsorcios.net.br","Phishunt.io feed","2026-07-01 04:52:03"
