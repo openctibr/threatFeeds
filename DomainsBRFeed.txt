@@ -1,3 +1,6 @@
+"https://absoluteinvestimentos.com.br","URLHaus Malware URLs feed","2026-07-14 03:55:16"
+"http://netflixfeitoaqui.com.br","Phishunt.io feed","2026-07-13 04:52:02"
+"http://iniciamazon.com.br","Phishunt.io feed","2026-07-13 04:52:01"
 "https://absoluteinvestimentos.com.br","URLHaus Malware URLs feed","2026-07-13 03:55:26"
 "wooriclinic.com.br","Maltrail IOC for 2026-07-12","2026-07-12 17:02:22"
 "visualimpressao.com.br","Maltrail IOC for 2026-07-12","2026-07-12 17:02:19"
@@ -93,6 +96,3 @@
 "http://proasp.com.br","Tweetfeed feed","2026-07-07 04:49:01"
 "multipar.net.br","Tweetfeed feed","2026-07-07 04:49:01"
 "http://multipar.net.br","Tweetfeed feed","2026-07-07 04:49:01"
-"http://iniciamazon.com.br","Phishunt.io feed","2026-07-06 04:52:02"
-"https://itauconsorcios.net.br","Phishunt.io feed","2026-07-06 04:52:02"
-"http://netflixfeitoaqui.com.br","Phishunt.io feed","2026-07-06 04:52:02"
