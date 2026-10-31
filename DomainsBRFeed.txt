@@ -1,3 +1,6 @@
+"https://bradescosegurosop.com.br","Phishunt.io feed","2026-10-30 04:52:02"
+"http://iniciamazon.com.br","Phishunt.io feed","2026-10-30 04:52:01"
+"http://netflixfeitoaqui.com.br","Phishunt.io feed","2026-10-30 04:52:01"
 "https://bradescosegurosop.com.br","Phishunt.io feed","2026-10-29 04:52:02"
 "http://iniciamazon.com.br","Phishunt.io feed","2026-10-29 04:52:01"
 "http://netflixfeitoaqui.com.br","Phishunt.io feed","2026-10-29 04:52:01"
